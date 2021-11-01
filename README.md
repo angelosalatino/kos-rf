@@ -51,5 +51,5 @@ Here follows a table providing an early insight on all the classification scheme
 | Nature Subjects                                      | Multi-field           | 2636       | 8     |  [link](/Nature%20Subjects)          |
 | Subject Resource Application Ontology                | Multi-field           | 425        | 7     | [link](/Subject%20Resource%20Application%20Ontology)  |
 | Unesco Thesaurus                                     | Multi-field           | 4436       | 6     |  [link](/Unesco%20Thesaurus)   |
-| Web of Science Categories                            | Multi-field           | 254        | 1     |  [link](/Web%20of%20Science Categories)  |
+| Web of Science Categories                            | Multi-field           | 254        | 1     |  [link](/Web%20of%20Science%20Categories)  |
 
