@@ -1,0 +1,629 @@
+Chemistry (CHE)
+C1 – Inorganic Chemistry
+Bioinorganic chemistry
+Catalytic materials
+Coordination chemistry
+Chemistry of non-metals
+Inorganic chemistry
+Organometallic chemistry
+Radiation and nuclear chemistry
+Solid state materials
+C2 – Organic, Polymer and Molecular Chemistry
+Carbohydrates
+Chirality
+Click chemistry
+Combinatorial chemistry
+Heterocyclic chemistry
+Macromolecular chemistry
+Molecular architecture and structure
+Molecular chemistry
+Natural product synthesis
+Nucleic acid chemistry
+Organic chemistry
+Organic reaction mechanisms
+Peptide chemistry
+Polymer chemistry
+Stereochemistry
+Supramolecular chemistry
+Synthetic organic chemistry
+C3 – Physical and Analytical Chemistry
+Analytical chemistry
+Chemical instrumentation and instrumental techniques
+Chemical reactions: mechanisms, dynamics, kinetics and catalytic reactions
+Chemistry of condensed matter
+Crystallography and X-ray diffraction
+Chromatography
+Colloid chemistry
+Corrosion
+Crystallisation
+Electrochemistry, electro dialysis, microfluidics, sensors
+Forensic chemistry
+Homogeneous catalysis
+Heterogeneous catalysis
+Ionic liquids
+Magnetic resonance
+Mass spectrometry
+Method development in chemistry
+Microscopy
+Molecular dynamics
+Molecular electronics
+Photocatalysis
+Photochemistry
+Physical chemistry
+Physical chemistry of biological systems
+Quantum chemistry
+Separation techniques/extraction
+Spectroscopic and spectrometric techniques
+Surface chemistry
+Theoretical and computational chemistry
+Trace analysis
+C4 – Applied and Industrial Chemistry
+Batteries
+Biological chemistry, biochemistry
+Biomaterials, biomaterial synthesis
+Ceramics
+Coating
+Enzymology
+Food chemistry
+Fuel cells
+Graphene, carbon nanotubes
+Green chemistry
+Hydrogen production/storage
+Intelligent materials, self-assembled materials
+Materials for sensors
+Medicinal chemistry
+Nanochemistry
+Nano-materials: oxides, alloys, composite, organic-inorganic hybrid, nanoparticles
+Pharmaceutical processes and production, Regulatory aspects, quality assurance, good manufacturing practice
+Plastics
+Porous materials, metal organic framework (MOFs)
+Solar cells
+Structural properties of materials
+Surface modification
+Targeted drug delivery/discovery
+Thin films
+Toxicology
+Water splitting
+Water treatment/purification
+Economic Sciences (ECO)
+E1 – Economics
+Applied research econometrics
+Behavioural and experimental economics
+Economic geography
+Economic growth
+Economic history
+Economics of education
+Environment economics
+Financial econometrics
+Game theory
+Global macroeconomic challenges
+Health economics
+Industrial economics
+International trade
+Labour economics
+Macroeconomics theory
+Monetary economics, international finance
+Political economy
+Public economics
+Social economics, welfare economics
+Statistics and big data
+Urban and regional economics
+E2 – Economic Development
+Circular economy
+Cluster development
+Environment issues in development economics
+Key enabling technologies for development
+Natural resources management
+Public administration
+Research & Open innovation, competitiveness
+E3 – ManagementCorporate governance and management
+Human resources management
+Industrial organisation
+Research and innovation management
+Start-up's, new business models in entrepreneurship, social entrepreneurship
+Strategy, marketing
+Value chain and optimisation
+E4 – Finance
+Accounting, international accounting standards, reporting, tax issues related to accounting
+Banks, insurance companies, financial intermediaries & fund, credit rating agencies
+Corporate finance, fundamentals analysis, capital budgeting, venture capital, risk assessment
+Financial markets, stock markets, fixed income markets, other markets investments, asset pricing, bonds, derivatives, commodities
+Information Science and Engineering (ENG)
+G1 - Computer science and informatics
+Algorithms, distributed, parallel and network algorithms, algorithmic game theory
+Artificial intelligence, intelligent systems, multi agent systems
+Bioinformatics, e-Health, medical informatics
+Cognitive modelling, cognitive engineering, cognitive sciences
+Complexity and cryptography, electronic security, privacy, biometrics
+Theorem proving, symbolic, algebraic computations
+Pervasive computing, ubiquitous computing, ambient intelligence, internet of things
+Computer games, computer geometry, multi-media, augmented and virtual reality
+Computer graphics, computer vision, multimedia, computer games
+Parallel/distributed systems, GPGPU, grid, cloud processing systems
+E-commerce, e-business, computational finance
+E-learning, user modelling, collaborative systems
+Intelligent robotics, cybernetics
+Internet and semantic web, ontologies, database systems and libraries
+Machine learning, data mining, statistical data processing and applications
+Modelling engineering, human computer interaction, natural language processing
+Numerical analysis, simulation, optimisation, modelling tools
+Scientific computing and data processing
+Sensor networks, embedded systems, hardware platforms
+Software engineering, operating systems, computer languages
+Neural networks, connectionist systems, fuzzy logic
+Evolutionary computing, biologically-inspired computing
+Theoretical computer science, formal methods
+Quantum computing, DNA computing, photonic computing
+G2 - Systems and Communication Engineering: Electrical, electronic, communication, optical and systems engineering
+Control Engineering
+Diagnostic and implantable devices, environmental monitoring
+Electrical and electronic engineering: semiconductors, components, systems
+Electronics, photonics
+Human-computer-interfaces
+Nano engineering
+Networks (communication networks, sensor networks, networks of robots,etc.)
+Optical engineering, photonics, lasers
+Signal processing
+Simulation engineering and modelling
+Systems engineering, sensorics, actorics, automation
+Wireless communications, communication, high frequency, mobile technology
+G3 - Products and Processes Engineering: Product design, process design and control, construction methods, civil engineering, energy processes, material engineering
+Aerospace engineering
+Architecture, smart buildings, smart cities, urban engineering
+Chemical engineering, technical chemistry
+Civil engineering
+Computational engineering and computer aided design
+Energy collection, conversion and storage, renewable energy
+Energy systems, smart energy, smart grids, wireless energy transfer
+Environmental engineering and geotechnics
+Fluid mechanics, hydraulic-, turbo-, and piston engines
+Industrial bioengineering
+Industrial design (product design, ergonomics, man-machine interfaces, etc.)
+Lightweight construction, textile technology
+Maritime engineering
+Materials engineering
+Mechanical and manufacturing engineering (shaping, mounting, joining, separation)
+Production technology, process engineering
+Sustainable design (for recycling, for environment, eco-design)
+Transport engineering, intelligent transport systems
+Waste treatment
+Environmental and Geosciences (ENV)
+V1 - Environment and society
+Clean technologies, circular economy, life
+Environmental determinants of health
+Environmental regulations, climatecycle assessment
+negotiations and citizen science
+Environmental risk assessment, monitoring
+Mobility and transportation
+Social and industrial ecology, sustainable development
+Spatial and regional planning (including landscape and land management), GIS
+Urbanization and urban planning, cities
+Waste, by-products and residue management (including from agriculture)
+V2 - Earth system science
+Atmospheric chemistry, atmospheric composition, air pollution, indoor air quality
+Biogeochemistry, biogeochemical cycles
+Clean exploration and exploitation of natural resources
+Climatology and climate change
+Cryosphere, dynamics of snow and ice cover, sea ice, permafrost and ice sheets
+Earth observations from space/remote sensing
+Environmental chemistry, environmental forensics
+Geochemistry, crystal chemistry, isotope geochemistry
+Geology, tectonics, volcanology, physics of earth's interior, seismology
+Hydrology, water management
+Meteorology, atmospheric physics and dynamics
+Mineralogy, petrology, igneous petrology, metamorphic petrology
+Natural hazards
+Noise pollution
+Oceanography, marine science, coastal engineering
+Paleoclimatology, paleoecology
+Physical geography
+Pollution (water, soil, sediment), rehabilitation and reconstruction of polluted areas, clean technologies
+Sedimentology, soil science, palaeontology
+Terrestrial ecology, land cover change
+V3 - Evolutionary, population and environmental biology
+Animal behaviour
+Biogeography, macro-ecology
+Biodiversity, conservation biology
+Comparative biology
+Ecology
+Ecotoxicology
+Environmental, marine and freshwater biology
+Population biology, population dynamics, population genetics
+Species interactions (e.g. food-webs, symbiosis, parasitism, mutualism, bio-invasion)
+Systems evolution, biological adaptation, phylogenetics, systematics
+V4 - Food Science, Agriculture, Forestry and Non-Medical Biotechnology
+Agriculture production systems (animals)
+Agriculture production systems (crops), including fertilisation and nutrient management
+Applied plant biology
+Applied biotechnology (non-medical), bioreactors, applied microbiology
+Aquaculture, fisheries
+Biohazards, biological containment, biosafety, biosecurity
+Biomass and biofuels production
+Biomimetics
+Crop protection, pest and disease control
+Environmental biotechnology, bioremediation, biodegradation
+Food sciences, safety, traceability, authenticity, agroindustry
+Forestry and forest management, agroforestry
+Soil biology, soil functionality, soil management
+Life Sciences (LIF)
+L1 - Molecular and Structural Biology
+Biophysics (e.g. transport mechanisms, bioenergetics, fluorescence)
+DNA synthesis and degradation
+DNA repair and recombination
+Molecular metabolism
+Molecular interactions
+Protein synthesis, folding, modification and turnover
+Lipid synthesis, modification and turnover
+Carbohydrate synthesis, modification and turnover
+RNA synthesis, processing, modification and degradation
+Structural biology (e.g. crystallography, EM, NMR, PET)
+L2 - Genetics, Genomics, Bioinformatics and Systems Biology
+Applied genetic engineering, transgenic organisms, recombinant proteins, biosensors
+Bioinformatics
+Biological systems analysis, modelling and simulation
+Biostatistics
+Computational biology
+Epigenetics and gene regulation
+Genetic epidemiology
+Genomics and functional genomics
+Genetic and genomic variation and related disorders
+Comparative, evolutionary and population genomics
+Chromosome structure organisation and dynamics
+Metabolomics (including glycomics)
+Molecular genetics, reverse genetics and RNAi
+Proteomics
+Quantitative geneticsSystems biology
+Transcriptomics
+Plant genetics
+Genome editing
+Genetic pharmacology
+L3 - Cellular and Developmental Biology
+Developmental biology and technology
+Pattern formation and embryology in animal organisms
+Molecular transport mechanisms
+Mechanisms of growth control and cell proliferation
+Cell differentiation, physiology and dynamics
+Morphology and functional imaging of cells
+Organelle biology
+Plant development pattern formation and embryology in plants
+Molecular mechanisms of signal transduction
+Stem cells and cellular programming
+Mechanisms and dynamics of cell migration
+L4 - Physiology, Pathophysiology and Endocrinology
+Ageing
+Cancer and its biological basis
+Cardiovascular diseases
+Comparative physiology
+Endocrinology
+Metabolism, biological basis of metabolism related disorders
+Organ physiology and pathophysiology
+Environmental physiology
+Rare/orphan Diseases
+Reproductive biomedicine (reproductive physiology and endocrinology, infertility and pregnancy research)
+L5 - Neurosciences and neural disorders
+Behavioural neuroscience (e.g. sleep, rhythms, speech, handedness)
+Cognitive neuroscience (e.g. learning, memory, emotions, consciousness)
+Neural development and neuroplasticity
+Mechanisms of pain
+Molecular and cellular neuroscience
+Neuroanatomy and excitability
+Physiology of nerves and motor systems
+Medicines, psychoactive drugs and pharmacology, poison.
+Neuroimaging and computational neuroscience
+Neurological disorders (e.g. Alzheimer's disease, Huntington's disease, Parkinson's disease)
+Psychiatric disorders and clinical psychology (e.g. schizophrenia, autism, Tourette's syndrome, obsessive compulsive disorder, depression, bipolar disorder, attention deficit hyperactivity disorder, addiction)
+Sensory perception (nose and smell, tongue and taste, eyes and vision, ears and hearing, skin, pain, touch and movements)
+L6 - Immunity and infection
+Bacteriology
+Biological basis of cancer immunity
+Biological basis of auto-immunity/tolerance
+Biological basis of immunity related inflammatory disorders
+Biological basis of other immunity related disorders
+Cellular and adaptive immunity
+Immunogenetics
+Immunological memory and tolerance
+Immunosignalling
+Microbiology
+Parasitology
+Phagocytosis and innate immunity
+Prevention and treatment of infection by pathogens (e.g. vaccination, antibiotics, fungicide)
+Veterinary medicine and infectious diseases in animals
+Virology
+L7 - Diagnostic tools, therapies and public health
+Diagnostic tools (e.g. genetic, molecular diagnostic)
+Drug discovery and design (formulation and delivery)
+Drug therapy and clinical studies
+In vivo bio and medical imaging
+In vitro cell and tissue imaging
+Environment and health risks, occupational medicine
+Gene therapy, cell therapy, regenerative medicine
+Tissue regeneration and engineering
+Immunotherapy (vaccine discovery, genetic vaccines)
+Health services, health care research
+Medical engineering and technology
+Personalised medicine (diagnostic/prognostic biomarker, patient-orientated management solutions)
+Pharmacology, pharmacogenomics
+Public health and epidemiology
+Radiation therapy
+Surgery
+Mathematics (MAT)
+M1 - Mathematics
+Algebraic geometry
+Algebraic number theory
+Algebraic topology
+Algorithms and complexity
+Analytic number theory
+Category theory and algebraic structures
+Combinatorics
+Complex analysis
+Complex geometry
+Differential Geometry
+Functional analysis
+Game Theory
+General topology
+Graph Theory
+Group Theory
+Harmonic analysis
+Homological algebra
+Low dimensional topology
+Mathematical logic and set theory
+Non commutative Geometry
+Ordinary Differential Equations andDynamical Systems
+Partial Differential Equations
+Probability
+Ring theory
+Set theory
+M2 – Applied Mathematics
+Control Theory
+Data Analysis
+Mathematical aspects of Biology
+Mathematical aspects of Computer Science
+Mathematical aspects of Economy and Finance
+Mathematical aspects of Physics
+Mathematics in Engineering and other Applied Sciences
+Numerical analysis and scientific computing
+Operational Research
+Optimization
+Scientific Computing
+Statistics
+Physics (PHY)
+P1 – Particle and Nuclear Physics
+Fundamental interactions and fields
+Neutrino oscillations
+Nuclear physics, heavy ions
+Nuclear physics, nuclear structure
+Particle accelerators and detectors
+Particle physics, experiment
+Particle physics, theory/phenomenology
+Supersymmetric particles
+Quantum chromodynamics
+Quantum field theory
+P2 – Atomic and molecular physics, optics
+Atomic physics
+Chemical Physics
+Cold/Ultra-cold atoms and molecules
+Laser physics
+Metrology and measurement
+Molecular physics
+Nano-optics
+Non linear optics
+Interferometry
+Optical physics
+Photonics
+Statistical physics (gases)
+Quantum optics
+Quantum electrodynamics
+P3 - Condensed matter physics
+Condensed matter, thermal properties
+Condensed matter, transport properties
+Condensed matter, mechanical and acoustical properties, lattice dynamics
+Electronic properties of materials, surfaces, interfaces
+Films and Interfaces
+Fluid dynamics
+Gas and plasma physics
+High pressure physics
+Low-temperature physics
+Magnetism and strongly correlated systems
+Mesoscopic physics
+Nanophysics: nanoelectronics, nanophotonics, nanomagnetism, nanoelectromechanics, etc.
+Phase transitions, phase equilibria
+Polymer physics
+Semiconductors and insulators
+Soft condensed matter
+Spintronics
+Statistical mechanics (condensed matter)
+Structure of solids and liquids
+Superconductivity
+Superfluids
+Surface Physics
+P4 – Astrophysics, Cosmology, Space science
+Active Galactic Nucleus (AGN) , QSO
+Astrobiology, astrochemistry
+Astrometry
+Astronomical instrumentation: telescopes, detectors, techniques
+Astrophysical jets, accretion phenomena
+Big bang nucleosynthesis
+Clusters of galaxies and large scale structures
+Cosmic Microwave Background (CMB)
+Cosmology
+Dark matter, dark energy
+Formation and evolution of galaxies
+Formation, structure and evolution of stars
+Extrasolar planets and exoplanets
+Gravitational lensing
+Gravitational waves
+High energy astrophysics
+Interstellar medium
+Nuclear astrophysics
+Radio astronomy
+Relativistic astrophysics
+Solar physics
+Solar system and planetary science
+Space weather
+P5 – Applied physics
+Acoustics
+Agrophysics
+Biophysics and biophysical techniques
+Communication Physics
+Complex systems, Networks
+Computational Physics
+Geophysics
+Laser applications
+Medical Physics
+Nanotechnology: nanomaterials, tools and techniques, applications of nanotechnology
+Optical engineering
+Optoelectronics
+Photodetectors
+Photonics applications
+Photovoltaics and solar cells
+Plasmonics
+Quantum electronics
+Quantum Technology and Quantum Devices
+Solid-state devices
+Social Sciences and Humanities (SOC)
+S1 - Sociology, social anthropology
+Ageing, health social policies
+Attitudes and values
+Demography, population issues and policies
+Fertility, family dynamics, policies
+Gender studies
+Globalization, glocalization, antiglobalism
+Inequalities, discrimination, prejudice, aggression and violence, antisocial behaviour
+Kinship, cultural dimensions of classification and cognition, identity
+Migration, refugees, asylum, interethnic relations, conflicts and integration of migrants
+Myth, ritual, symbolic representations, religious studies
+Qualitative methods, ethnography, case studies
+Rural population, agriculture, innovation, depopulation
+Social economy, social entrepreneurship
+Social influence, power and group behaviour, classroom management
+Social integration, exclusion, inequalities, participation and prosocial behaviour
+Social structure, social mobility
+Social theory
+Social welfare and neoliberalism
+Sociology of education
+Sociology of knowledge
+Transformation of societies, democratization, social movements
+Urban sociology, urban theory, urban studies, global cities, territorialisation
+Work, employment, precariousness
+Youth studies
+S2 - Political science
+Comparative politics
+Development studies
+Electoral politics, Political parties, Citizenship and public engagement
+EU and European politics
+Foreign policy
+Game theory, Logic of collective choice
+Human, economic and social geography
+International relations, Global governance, International politics and history; geopolitics
+Migration policy
+Political economy
+Political systems and institutions, governance
+Political theory, Political thought, Political philosophy; Ideologies
+Politics of gender, Race, Discrimination and inequalities; Identity politics
+Public administration, Public policies
+Regional and territorial politics
+Relations with public interest groups
+Theories of conflict, violence and security; Negotiation and mediation
+S3 - Law
+Business, corporate and securities law
+Comparative law
+Criminal law
+Education law
+Employment and labour law, social law
+European law
+Family and juvenile law
+Health law
+Intellectual property and innovation law; Data protection law, IT law
+International law, human and civil rights; Violence, conflict and peacebuilding
+Legal systems, constitutions, foundations of law
+Private law, consumer protection law
+Public law, immigration law, environmental law
+Sports and entertainment law
+S4 - Communication
+Communication networks, media, including social media, information society
+Crisis communication theory and procedures
+Digital social research, audiovisual social services
+Information & communication technology and the world of work
+Information society and education
+Institutional communication
+Lobbying
+Political communication and strategy
+Social communication, verbal and non verbal communication
+Social studies of science and technology
+S5 - Cognition, psychology, linguistics
+Biological psychology: mind-body connection, health, stress and disease
+Cognitive psychology: learning, cognition
+Development across the life-span and developmental psychopathology
+Ergonomics, human factors, user modelling, and neuroergonomics
+Evolution of mind and cognitive functions, animal communication
+Formal, cognitive, functional and computational linguistics
+Neuropsychology and neurolinguistics
+Psycholinguistics: acquisition, comprehension , production
+Socio-cultural psychology and social cognition
+Typological, historical and comparative linguistics
+Use of language: pragmatics, sociolinguistics, discourse analysis, second language teaching and learning, lexicography, terminology
+S6 – Philosophy
+Aesthetics and philosophy of culture and anthropology
+Analytic philosophy
+Epistemology, logic, philosophy of science
+Ethics and morality, bioethics
+History of philosophy
+Metaphysics
+Phenomenology
+Philosophy of religion
+Social and political philosophy
+S7 – Education
+Education systems, institutions and policies, sociology of education
+Educational assessment, feedback
+Learning technologies, e-learning, tutoring systems, learning analytics
+Lifelong learning, workplace learning and training, heutagogy
+Philosophy of education, human development
+Teaching and learning methodologies, pedagogy, andragogy, psychology of education
+S8 - Literature, arts, music, cultural and comparative studies
+African literature
+Classics, ancient Greek and Latin literature and art
+Comparative literature
+Computational modelling and digitisation in the cultural Sphere
+Contemporary literature
+Cultural memory, intangible cultural heritage
+Cultural studies, cultural diversity
+History of art and architecture, arts-based research
+History of art criticism
+History of books, codicology
+History of collections
+History of fashion design
+History of literature
+Latin American literature
+Library and archival science; Librarianship
+Literary theory and comparative literature, literary styles
+Medieval literature
+Modern literature
+Museums and exhibitions, conservation and restoration
+Music and musicology, history of music
+Oriental and East Asian literature
+Textual philology, palaeography and epigraphy
+Visual arts, performing arts, film, design
+S9 - Archaeology, history and memory
+American archaeology, art and culture
+Ancient history
+Asian archaeology, art and culture
+Classical archaeology and art, history of archaeology
+Collective memories, identities, lieux de mémoire, oral history
+Colonial and post-colonial history, global and transnational history, entangled histories
+Cultural heritage, cultural memory
+Cultural history; History of collective identities and memories
+Diplomatics
+Early and modern archaeology
+Egyptology and ancient near eastern archaeology, art and culture
+Gender history
+General archaeology, archaeometry, landscape archaeology
+Historiography, theory and methods in history, including the analysis of digital data
+History of ideas, intellectual history, history of science, techniques and technologies
+Industrial archaeology
+Medieval history
+Military history
+Modern and contemporary archaeology
+Modern and contemporary history
+Numismatics, epigraphy
+Prehistory, palaeoanthropology, palaeodemography, protohistory
+Social, economic, cultural and political history
