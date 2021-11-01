@@ -41,8 +41,8 @@ Here follows a table providing an early insight on all the classification scheme
 | Research Fields, Courses and Disciplines (ASRC)      | Multi-field           | 1061       | 3     |          |
 | Dewey Decimal Classification                         | Multi-field           | 41K        | 27    |          |
 | DFG Classification                                   | Multi-field           | 275        | 4     |  [link](/DFG%20Classification)  |
-| European Commission Taxonomy                         | Multi-field           | 629        | 3     |          |
-| European Research Council Taxonomy                   | Multi-field           | 429        | 3     |          |
+| European Commission Taxonomy                         | Multi-field           | 629        | 3     |  [link](/European%20Commission%20Taxonomy)  |
+| European Research Council Taxonomy                   | Multi-field           | 429        | 3     | [link](/European%20Research%20Council%20Taxonomy) |
 | EuroVoc                                              | Multi-field           | 7339       | 6     |  [link](/EuroVoc)  |
 | Fields of research and development                   | Multi-field           | 48         | 2     |          |
 | IEEE Thesaurus                                       | Multi-field           | 10K        | 3     | [link](/IEEE%20Thesaurus)  |
