@@ -47,7 +47,7 @@ Here follows a table providing an early insight on all the classification scheme
 | Fields of research and development                   | Multi-field           | 48         | 2     |          |
 | IEEE Thesaurus                                       | Multi-field           | 10K        | 3     | [link](/IEEE%20Thesaurus)  |
 | KNOWMAK                                              | Multi-field           | 72         | 3     |          |
-| Library of Congress Class. (\& Subj. Head.)          | Multi-field           | 434K       | 27    |          |
+| Library of Congress Class. (\& Subj. Head.)          | Multi-field           | 434K       | 27    | [link](/Library%20of%20Congress%20Subject%20Headings)  |
 | Microsoft's Fields of Study                          | Multi-field           | 704K       | 6     |          |
 | Modern Science Ontology                              | Multi-field           | 237        | 5     |          |
 | Nature Subjects                                      | Multi-field           | 2636       | 8     |  [link](/Nature%20Subjects)          |
