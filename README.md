@@ -1,5 +1,7 @@
 # A Survey on Classification Schemes of Research Fields: Resources and Challenges
 
+## THIS IS WORK IN PROGRESS
+
 Classification schemes, such as controlled vocabularies, thesauri, taxonomies, and ontologies, play a fundamental role in categorising, managing, and retrieving information. In the academic domain, classification schemes are often adopted for representing research areas and their relationships, with the primary aim of classifying research articles, academic courses, patents, books, scientific venues, domain experts, grants, software, experiment materials, and several other relevant items and agents. These structured representations of research areas have been adopted by most academic fields and proved very effective in *i)* improving the retrievability of relevant documents, *i)* enabling advanced analytic solutions to quantify the impact of academic research, and *iii)* understanding and forecasting research dynamics. This repository is attached to a survey paper presenting the current classification schemes for academic disciplines. We defined formal inclusion and exclusion criteria that led to the identification of 42 classification schemes. We analysed and compared them according to five main dimensions: scope, structure, curation, usage, and links to other classification schemes. Our results reveal a very heterogeneous scenario in terms of scope, scale, quality, and usage, highlighting the need for more integrated solutions for representing research knowledge across academic fields. We conclude the paper by discussing the main challenges and the most promising future directions.
 
 In this repository there are all the Python scripts we used to support our analysis.
@@ -11,13 +13,13 @@ Here follows a table providing an early insight on all the classification scheme
 | Classification Scheme                                | Main Discipline       | # Concepts | Depth | Folder   |
 |------------------------------------------------------|-----------------------|------------|-------|----------|
 | Agrovoc Thesaurus                                    | Agriculture           | 39K        | 14    | [link](/Agrovoc%20Thesaurus) |
-| Art and Architecture Thesaurus                       | Art \& Architecture   | 54K        | 20    |          |
+| Art and Architecture Thesaurus                       | Art \& Architecture   | 54K        | 20    |  [link](/Art%20and%20Architecture%20Thesaurus)   |
 | EDAM                                                 | Bioinformatics        | 264        | 7     |  [link](/EDAM)   |
 | Open Biological and Biomedical Ontology              | Biology               | 4.2M       | 39    |          |
 | Biomedical Ontologies from BioPortal                 | Biomedicine           | 13M        | -     |          |
 | ChemOnt                                              | Chemistry             | 4825       | 11    | [link](/ChemOnt) |
-| Computer Science Ontology                            | Computer Science      | 14K        | 13    |          |
-| ACM Computing Classification Scheme                  | Computer Science      | 2114       | 6     |          |
+| Computer Science Ontology                            | Computer Science      | 14K        | 13    |  [link](/Computer%Science%Ontology)   |
+| ACM Computing Classification Scheme                  | Computer Science      | 2114       | 6     |   [link](/ACM%20Computing%20Classification%20Scheme)       |
 | Computer Science Subject Headings from Wikipedia     | Computer Science      | 7354       | 20    |          |
 | Journal of Economic Literature                       | Economics             | 858        | 3     |          |
 | STW Thesaurus for Economics                          | Economics             | 20K        | 4     |          |
