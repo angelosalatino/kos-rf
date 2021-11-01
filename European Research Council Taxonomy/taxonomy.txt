@@ -1,0 +1,429 @@
+Physical Sciences and Engineering
+PE1 Mathematics
+PE1_1 Logic and foundations
+PE1_2 Algebra
+PE1_3 Number theory
+PE1_4 Algebraic and complex geometry
+PE1_5 Lie groups, Lie algebras
+PE1_6 Geometry and global analysis
+PE1_7 Topology
+PE1_8 Analysis
+PE1_9 Operator algebras and functional analysis
+PE1_10 ODE and dynamical systems
+PE1_11 Theoretical aspects of partial differential equations
+PE1_12 Mathematical physics
+PE1_13 Probability
+PE1_14 Mathematical statistics
+PE1_15 Generic statistical methodology and modelling
+PE1_16 Discrete mathematics and combinatorics
+PE1_17 Mathematical aspects of computer science
+PE1_18 Numerical analysis
+PE1_19 Scientific computing and data processing
+PE1_20 Control theory, optimisation and operational research
+PE1_21 Application of mathematics in sciences
+PE1_22 Application of mathematics in industry and society
+PE2 Fundamental Constituents of Matter
+PE2_1 Theory of fundamental interactions
+PE2_2 Phenomenology of fundamental interactions
+PE2_3 Experimental particle physics with accelerators
+PE2_4 Experimental particle physics without accelerators
+PE2_5 Classical and quantum physics of gravitational interactions
+PE2_6 Nuclear, hadron and heavy ion physics
+PE2_7 Nuclear and particle astrophysics
+PE2_8 Gas and plasma physics
+PE2_9 Electromagnetism
+PE2_10 Atomic, molecular physics
+PE2_11 Ultra-cold atoms and molecules
+PE2_12 Optics, non-linear optics and nano-optics
+PE2_13 Quantum optics and quantum information
+PE2_14 Lasers, ultra-short lasers and laser physics
+PE2_15 Thermodynamics
+PE2_16 Non-linear physics
+PE2_17 Metrology and measurement
+PE2_18 Equilibrium and non-equilibrium statistical mechanics: steady states and dynamics
+PE3 Condensed Matter Physics
+PE3_1 Structure of solids, material growth and characterisation
+PE3_2 Mechanical and acoustical properties of condensed matter, lattice dynamics
+PE3_3 Transport properties of condensed matter
+PE3_4 Electronic properties of materials, surfaces, interfaces, nanostructures
+PE3_5 Physical properties of semiconductors and insulators
+PE3_6 Macroscopic quantum phenomena, e.g. superconductivity, superfluidity, quantum Hall effect
+PE3_7 Spintronics
+PE3_8 Magnetism and strongly correlated systems
+PE3_9 Condensed matter – beam interactions (photons, electrons, etc.)
+PE3_10 Nanophysics, e.g. nanoelectronics, nanophotonics, nanomagnetism, nanoelectromechanics
+PE3_11 Mesoscopic quantum physics and solid-state quantum technologies
+PE3_12 Molecular electronics
+PE3_13 Structure and dynamics of disordered systems, e.g. soft matter (gels, colloids, liquid crystals), granular matter, liquids, glasses, defects
+PE3_14 Fluid dynamics (physics)
+PE3_15 Statistical physics: phase transitions, condensed matter systems, models of complex systems, interdisciplinary applications
+PE3_16 Physics of biological systems
+PE4 Physical and Analytical Chemical Sciences
+PE4_1 Physical chemistry
+PE4_2 Spectroscopic and spectrometric techniques
+PE4_3 Molecular architecture and Structure
+PE4_4 Surface science and nanostructures
+PE4_5 Analytical chemistry
+PE4_6 Chemical physics
+PE4_7 Chemical instrumentation
+PE4_8 Electrochemistry, electrodialysis, microfluidics, sensors
+PE4_9 Method development in chemistry
+PE4_10 Heterogeneous catalysis
+PE4_11 Physical chemistry of biological systems
+PE4_12 Chemical reactions: mechanisms, dynamics, kinetics and catalytic reactions
+PE4_13 Theoretical and computational chemistry
+PE4_14 Radiation and Nuclear chemistry
+PE4_15 Photochemistry
+PE4_16 Corrosion
+PE4_17 Characterisation methods of materials
+PE4_18 Environment chemistry
+PE5 Synthetic Chemistry and Materials
+PE5_1 Structural properties of materials
+PE5_2 Solid state materials chemistry
+PE5_3 Surface modification
+PE5_4 Thin films
+PE5_5 Ionic liquids
+PE5_6 New materials: oxides, alloys, composite, organic-inorganic hybrid, nanoparticles
+PE5_7 Biomaterials synthesis
+PE5_8 Intelligent materials synthesis – self assembled materials
+PE5_9 Coordination chemistry
+PE5_10 Colloid chemistry
+PE5_11 Biological chemistry and chemical biology
+PE5_12 Chemistry of condensed matter
+PE5_13 Homogeneous catalysis
+PE5_14 Macromolecular chemistry
+PE5_15 Polymer chemistry
+PE5_16 Supramolecular chemistry
+PE5_17 Organic chemistry
+PE5_18 Medicinal chemistry
+PE6 Computer Science and Informatics
+PE6_1 Computer architecture, embedded systems, operating systems
+PE6_2 Distributed systems, parallel computing, sensor networks, cyber-physical systems
+PE6_3 Software engineering, programming languages and systems
+PE6_4 Theoretical computer science, formal methods, automata
+PE6_5 Security, privacy, cryptology, quantum cryptography
+PE6_6 Algorithms and complexity, distributed, parallel and network algorithms, algorithmic game theory
+PE6_7 Artificial intelligence, intelligent systems, natural language processing
+PE6_8 Computer graphics, computer vision, multimedia, computer games
+PE6_9 Human computer interaction and interface, visualisation
+PE6_10 Web and information systems, data management systems, information retrieval and digital libraries, data fusion
+PE6_11 Machine learning, statistical data processing and applications using signal processing (e.g. speech, image, video)
+PE6_12 Scientific computing, simulation and modelling tools
+PE6_13 Bioinformatics, bio-inspired computing, and natural computing
+PE6_14 Quantum computing (formal methods, algorithms and other computer science aspects)
+PE7 Systems and Communication Engineering
+PE7_1 Control engineering
+PE7_2 Electrical engineering: power components and/or systems
+PE7_3 Simulation engineering and modelling
+PE7_4 (Micro- and nano-) systems engineering
+PE7_5 (Micro- and nano-) electronic, optoelectronic and photonic components
+PE7_6 Communication systems, wireless technology, high-frequency technology
+PE7_7 Signal processing
+PE7_8 Networks, e.g. communication networks and nodes, Internet of Things, sensor networks, networks of robots
+PE7_9 Man-machine interfaces
+PE7_10 Robotics
+PE7_11 Components and systems for applications (in e.g. medicine, biology, environment)
+PE7_12 Electrical energy production, distribution, applications
+PE8 Products and Processes Engineering
+PE8_1 Aerospace engineering
+PE8_2 Chemical engineering, technical chemistry
+PE8_3 Civil engineering, architecture, offshore construction, lightweight construction, geotechnics
+PE8_4 Computational engineering
+PE8_5 Fluid mechanics
+PE8_6 Energy processes engineering
+PE8_7 Mechanical engineering
+PE8_8 Propulsion engineering, e.g. hydraulic, turbo, piston, hybrid engines
+PE8_9 Production technology, process engineering
+PE8_10 Manufacturing engineering and industrial design
+PE8_11 Environmental engineering, e.g. sustainable design, waste and water treatment, recycling, regeneration or recovery of compounds, carbon capture & storage
+PE8_12 Naval/marine engineering
+PE8_13 Industrial bioengineering
+PE8_14 Automotive and rail engineering; multi-/inter-modal transport engineering
+PE9 Universe Sciences
+PE9_1 Solar physics – the Sun and the heliosphere
+PE9_2 Solar system science
+PE9_3 Exoplanetary science, formation and characterization of extrasolar planets
+PE9_4 Astrobiology
+PE9_5 Interstellar medium and star formation
+PE9_6 Stars – stellar physics, stellar systems
+PE9_7 The Milky Way
+PE9_8 Galaxies – formation, evolution, clusters
+PE9_9 Cosmology and large-scale structure, dark matter, dark energy
+PE9_10 Relativistic astrophysics and compact objects
+PE9_11 Gravitational wave astronomy
+PE9_12 High-energy and particle astronomy
+PE9_13 Astronomical instrumentation and data, e.g. telescopes, detectors, techniques, archives, analyses
+PE10 Earth System Science
+PE10_1 Atmospheric chemistry, atmospheric composition, air pollution
+PE10_2 Meteorology, atmospheric physics and dynamics
+PE10_3 Climatology and climate change
+PE10_4 Terrestrial ecology, land cover change
+PE10_5 Geology, tectonics, volcanology
+PE10_6 Palaeoclimatology, palaeoecology
+PE10_7 Physics of earth’s interior, seismology, geodynamics
+PE10_8 Oceanography (physical, chemical, biological, geological)
+PE10_9 Biogeochemistry, biogeochemical cycles, environmental chemistry
+PE10_10 Mineralogy, petrology, igneous petrology, metamorphic petrology
+PE10_11 Geochemistry, cosmochemistry, crystal chemistry, isotope geochemistry, thermodynamics
+PE10_12 Sedimentology, soil science, palaeontology, earth evolution
+PE10_13 Physical geography, geomorphology
+PE10_14 Earth observations from space/remote sensing
+PE10_15 Geomagnetism, palaeomagnetism
+PE10_16 Ozone, upper atmosphere, ionosphere
+PE10_17 Hydrology, hydrogeology, engineering and environmental geology, water and soil pollution
+PE10_18 Cryosphere, dynamics of snow and ice cover, sea ice, permafrosts and ice sheets
+PE10_19 Planetary geology and geophysics
+PE10_20 Geohazards
+PE10_21 Earth system modelling and interactions
+PE11 Materials Engineering
+PE11_1 Engineering of biomaterials, biomimetic, bioinspired and bio-enabled materials
+PE11_2 Engineering of metals and alloys
+PE11_3 Engineering of ceramics and glasses
+PE11_4 Engineering of polymers and plastics
+PE11_5 Engineering of composites and hybrid materials
+PE11_6 Engineering of carbon materials
+PE11_7 Engineering of metal oxides
+PE11_8 Engineering of alternative established or emergent materials
+PE11_9 Nanomaterials engineering, e.g. nanoparticles, nanoporous materials, 1D & 2D nanomaterials
+PE11_10 Soft materials engineering, e.g. gels, foams, colloids
+PE11_11 Porous materials engineering, e.g. covalent-organic, metal-organic, porous aromatic frameworks
+PE11_12 Semi-conducting and magnetic materials engineering
+PE11_13 Metamaterials engineering
+PE11_14 Computational methods for materials engineering
+Life Sciences
+LS1 Molecules of Life: Biological Mechanisms, Structures and Functions
+LS1_1 Macromolecular complexes including interactions involving nucleic acids, proteins, lipids and carbohydrates
+LS1_2 Biochemistry
+LS1_3 DNA and RNA biology
+LS1_4 Protein biology
+LS1_5 Lipid biology
+LS1_6 Glycobiology
+LS1_7 Molecular biophysics, biomechanics, bioenergetics
+LS1_8 Structural biology
+LS1_9 Molecular mechanisms of signalling processes
+LS1_10 Synthetic biology
+LS1_11 Chemical biology
+LS1_12 Protein design
+LS1_13 Early translational research and drug design
+LS1_14 Innovative methods and modelling in molecular, structural and synthetic biology
+LS2 Integrative Biology: from Genes and Genomes to Systems
+LS2_1 Genetics
+LS2_2 Gene editing
+LS2_3 Epigenetics
+LS2_4 Gene regulation
+LS2_5 Genomics
+LS2_6 Metagenomics
+LS2_7 Transcriptomics
+LS2_8 Proteomics
+LS2_9 Metabolomics
+LS2_10 Glycomics/Lipidomics
+LS2_11 Bioinformatics and computational biology
+LS2_12 Biostatistics
+LS2_13 Systems biology
+LS2_14 Genetic diseases
+LS2_15 Integrative biology for personalised medicine
+LS2_16 Innovative methods and modelling in integrative biology
+LS3 Cellular, Developmental and Regenerative Biology
+LS3_1 Cell cycle, cell division and growth
+LS3_2 Cell senescence, cell death, autophagy, cell ageing
+LS3_3 Cell behaviour, including control of cell shape, cell migration
+LS3_4 Cell junctions, cell adhesion, the extracellular matrix, cell communication
+LS3_5 Cell signalling and signal transduction, exosome biology
+LS3_6 Organelle biology and trafficking
+LS3_7 Mechanobiology of cells, tissues and organs
+LS3_8 Embryogenesis, pattern formation, morphogenesis
+LS3_9 Cell differentiation, formation of tissues and organs
+LS3_10 Developmental genetics
+LS3_11 Evolution of developmental strategies
+LS3_12 Organoids
+LS3_13 Stem cells
+LS3_14 Regeneration
+LS3_15 Development of cell-based therapeutic approaches for tissue regeneration
+LS3_16 Functional imaging of cells and tissues
+LS3_17 Theoretical modelling in cellular, developmental and regenerative biology
+LS4 Physiology in Health, Disease and Ageing
+LS4_1 Organ and tissue physiology and pathophysiology
+LS4_2 Comparative physiology
+LS4_3 Physiology of ageing
+LS4_4 Endocrinology
+LS4_5 Non-hormonal mechanisms of inter-organ and tissue communication
+LS4_6 Microbiome and host physiology
+LS4_7 Nutrition and exercise physiology
+LS4_8 Impact of stress (including environmental stress) on physiology
+LS4_9 Metabolism and metabolic disorders, including diabetes and obesity
+LS4_10 The cardiovascular system and cardiovascular diseases
+LS4_11 Haematopoiesis and blood diseases
+LS4_12 Cancer
+LS4_13 Other non-communicable diseases (except disorders of the nervous system and immunity-related diseases)
+LS5 Neuroscience and Disorders of the Nervous System
+LS5_1 Neuronal cells
+LS5_2 Glial cells and neuronal-glial communication
+LS5_3 Neural development and related disorders
+LS5_4 Neural stem cells
+LS5_5 Neural networks and plasticity
+LS5_6 Neurovascular biology and blood-brain barrier
+LS5_7 Sensory systems, sensation and perception, including pain
+LS5_8 Neural basis of behaviour
+LS5_9 Neural basis of cognition
+LS5_10 Ageing of the nervous system
+LS5_11 Neurological and neurodegenerative disorders
+LS5_12 Mental disorders
+LS5_13 Nervous system injuries and trauma, stroke
+LS5_14 Repair and regeneration of the nervous system
+LS5_15 Neuroimmunology, neuroinflammation
+LS5_16 Systems and computational neuroscience
+LS5_17 Imaging in neuroscience
+LS5_18 Innovative methods and tools for neuroscience
+LS6 Immunity, Infection and Immunotherapy
+LS6_1 Innate immunity
+LS6_2 Adaptive immunity
+LS6_3 Regulation of the immune response
+LS6_4 Immune-related diseases
+LS6_5 Biology of pathogens (e.g. bacteria, viruses, parasites, fungi)
+LS6_6 Infectious diseases
+LS6_7 Mechanisms of infection
+LS6_8 Biological basis of prevention and treatment of infection
+LS6_9 Antimicrobials, antimicrobial resistance
+LS6_10 Vaccine development
+LS6_11 Innovative immunological tools and approaches, including therapies
+LS7 Prevention, Diagnosis and Treatment of Human Diseases
+LS7_1 Medical imaging for prevention, diagnosis and monitoring of diseases
+LS7_2 Medical technologies and tools (including genetic tools and biomarkers) for prevention, diagnosis, monitoring and treatment of diseases
+LS7_3 Nanomedicine
+LS7_4 Regenerative medicine
+LS7_5 Applied gene, cell and immune therapies
+LS7_6 Other medical therapeutic interventions, including transplantation
+LS7_7 Pharmacology and toxicology
+LS7_8 Effectiveness of interventions, including resistance to therapies
+LS7_9 Public health and epidemiology
+LS7_10 Preventative and prognostic medicine
+LS7_11 Environmental health, occupational medicine
+LS7_12 Health care, including care for the ageing population
+LS7_13 Palliative medicine
+LS7_14 Digital medicine, e-medicine, medical applications of artificial intelligence
+LS7_15 Medical ethics
+LS8 Environmental Biology, Ecology and Evolution
+LS8_1 Ecosystem and community ecology, macroecology
+LS8_2 Biodiversity
+LS8_3 Conservation biology
+LS8_4 Population biology, population dynamics, population genetics
+LS8_5 Biological aspects of environmental change, including climate change
+LS8_6 Evolutionary ecology
+LS8_7 Evolutionary genetics
+LS8_8 Phylogenetics, systematics, comparative biology
+LS8_9 Macroevolution and paleobiology
+LS8_10 Ecology and evolution of species interactions
+LS8_11 Behavioural ecology and evolution
+LS8_12 Microbial ecology and evolution
+LS8_13 Marine biology and ecology
+LS8_14 Ecophysiology, from organisms to ecosystems
+LS8_15 Theoretical developments and modelling in environmental biology, ecology, and evolution
+LS9 Biotechnology and Biosystems Engineering
+LS9_1 Bioengineering for synthetic and chemical biology
+LS9_2 Applied genetics, gene editing and transgenic organisms
+LS9_3 Bioengineering of cells, tissues, organs and organisms
+LS9_4 Microbial biotechnology and bioengineering
+LS9_5 Food biotechnology and bioengineering
+LS9_6 Marine biotechnology and bioengineering
+LS9_7 Environmental biotechnology and bioengineering
+LS9_8 Applied plant sciences, plant breeding, agroecology and soil biology
+LS9_9 Plant pathology and pest resistance
+LS9_10 Veterinary and applied animal sciences
+LS9_11 Biomass production and utilisation, biofuels
+LS9_12 Ecotoxicology, biohazards and biosafety
+Social Sciences and Humanities
+SH1 Individuals, Markets and Organisations
+SH1_1 Macroeconomics; monetary economics; economic growth
+SH1_2 International trade; international management; international business; spatial economics
+SH1_3 Development economics; structural change; political economy of development
+SH1_4 Finance; asset pricing; international finance; market microstructure
+SH1_5 Corporate finance; banking and financial intermediation; accounting; auditing; insurance
+SH1_6 Econometrics; operations research
+SH1_7 Behavioural economics; experimental economics; neuro-economics
+SH1_8 Microeconomic theory; game theory; decision theory
+SH1_9 Industrial organisation; entrepreneurship; R&D and innovation
+SH1_10 Management; strategy; organisational behaviour
+SH1_11 Human resource management; operations management, marketing
+SH1_12 Environmental economics; resource and energy economics; agricultural economics
+SH1_13 Labour and demographic economics
+SH1_14 Health economics; economics of education
+SH1_15 Public economics; political economics; law and economics
+SH1_16 Historical economics; quantitative economic history; institutional economics; economic systems
+SH2 Institutions, Governance and Legal Systems
+SH2_1 Political systems, governance
+SH2_2 Democratisation and social movements
+SH2_3 Conflict resolution, war, peace building, international law
+SH2_4 Legal studies, constitutions, human rights, comparative law
+SH2_5 International relations, global and transnational governance
+SH2_6 Humanitarian assistance and development
+SH2_7 Political and legal philosophy
+SH2_8 Big data in political and legal studies
+SH3 The Social World and Its Diversity
+SH3_1 Social structure, social mobility, social innovation
+SH3_2 Inequalities, discrimination, prejudice
+SH3_3 Aggression and violence, antisocial behaviour, crime
+SH3_4 Social integration, exclusion, prosocial behaviour
+SH3_5 Attitudes and beliefs
+SH3_6 Social influence; power and group behaviour
+SH3_7 Kinship; diversity and identities, gender, interethnic relations
+SH3_8 Social policies, welfare, work and employment
+SH3_9 Poverty and poverty alleviation
+SH3_10 Religious studies, ritual; symbolic representation
+SH3_11 Social aspects of teaching and learning, curriculum studies, education and educational policies
+SH3_12 Communication and information, networks, media
+SH3_13 Digital social research
+SH3_14 Social studies of science and technology
+SH4 The Human Mind and Its Complexity
+SH4_1 Cognitive basis of human development and education, developmental disorders; comparative cognition
+SH4_2 Personality and social cognition; emotion
+SH4_3 Clinical and health psychology
+SH4_4 Neuropsychology
+SH4_5 Attention, perception, action, consciousness
+SH4_6 Learning, memory; cognition in ageing
+SH4_7 Reasoning, decision-making; intelligence
+SH4_8 Language learning and processing (first and second languages)
+SH4_9 Theoretical linguistics; computational linguistics
+SH4_10 Language typology; historical linguistics
+SH4_11 Pragmatics, sociolinguistics, linguistic anthropology, discourse analysis
+SH4_12 Philosophy of mind, philosophy of language
+SH4_13 Philosophy of science, epistemology, logic
+SH5 Cultures and Cultural Production
+SH5_1 Classics, ancient literature and art
+SH5_2 Theory and history of literature, comparative literature
+SH5_3 Philology; text and image studies
+SH5_4 Visual and performing arts, film, design and architecture
+SH5_5 Music and musicology; history of music
+SH5_6 History of art and architecture, arts-based research
+SH5_7 Museums, exhibitions, conservation and restoration
+SH5_8 Cultural studies, cultural identities and memories, cultural heritage
+SH5_9 Metaphysics, philosophical anthropology; aesthetics
+SH5_10 Ethics and its applications; social philosophy
+SH5_11 History of philosophy
+SH5_12 Computational modelling and digitisation in the cultural sphere
+SH6 The Study of the Human Past
+SH6_1 Historiography, theory and methods in history, including the analysis of digital data
+SH6_2 Classical archaeology, history of archaeology, social archaeology
+SH6_3 General archaeology, archaeometry, landscape archaeology
+SH6_4 Prehistory, palaeoanthropology, palaeodemography, protohistory, bioarchaeology
+SH6_5 Palaeography and codicology
+SH6_6 Ancient history
+SH6_7 Medieval history
+SH6_8 Early modern history
+SH6_9 Modern and contemporary history
+SH6_10 Colonial and post-colonial history
+SH6_11 Global history, transnational history, comparative history, entangled histories
+SH6_12 Social and economic history
+SH6_13 Gender history, cultural history, history of collective identities and memories, history of religions
+SH6_14 History of ideas, intellectual history, history of economic thought
+SH6_15 History of science, medicine and technologies
+SH7 Human Mobility, Environment, and Space
+SH7_1 Human, economic and social geography
+SH7_2 Migration
+SH7_3 Population dynamics: households, family and fertility
+SH7_4 Social aspects of health, ageing and society
+SH7_5 Sustainability sciences, environment and resources
+SH7_6 Environmental and climate change, societal impact and policy
+SH7_7 Cities; urban, regional and rural studies
+SH7_8 Land use and planning
+SH7_9 Energy, transportation and mobility
+SH7_10 GIS, spatial analysis; big data in geographical studies
