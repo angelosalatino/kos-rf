@@ -32,7 +32,7 @@ Here follows a table providing an early insight on all the classification scheme
 | Physical Subject Headings                            | Physics               | 3224       | 6     |          |
 | PsycInfo and PsycTests Classification Systems        | Psychology            | 167        | 3     |  [link](PsycInfo520and%20PsycTests%20Classification%20Systems)  |
 | TheSoz                                               | Social Science        | 8223       | 6     |  [link](/TheSoz)  |
-| All Science Journal Classification Codes             | Multi-field           | 334        | 2     |          |
+| All Science Journal Classification Codes             | Multi-field           | 334        | 2     |  [link](/All%20Science%20Journal%20Classification%20Codes)  |
 | Fields of Research (ANZSRC)                          | Multi-field           | 4406       | 3     | [link](/ANZSRC%20Fields%20of%20Research) |
 | Socio-Economic Objective (ANZSRC)                    | Multi-field           | 1974        | 4     |  [link](/ANZSRC%20Socio-Economic%20Objective)  |
 | ArXiv Subjects                                       | Multi-field           | 166        | 3     |          |
@@ -51,5 +51,5 @@ Here follows a table providing an early insight on all the classification scheme
 | Nature Subjects                                      | Multi-field           | 2636       | 8     |  [link](/Nature%20Subjects)          |
 | Subject Resource Application Ontology                | Multi-field           | 425        | 7     | [link](/Subject%20Resource%20Application%20Ontology)  |
 | Unesco Thesaurus                                     | Multi-field           | 4436       | 6     |  [link](/Unesco%20Thesaurus)   |
-| Web of Science Categories                            | Multi-field           | 254        | 1     |          |
+| Web of Science Categories                            | Multi-field           | 254        | 1     |  [link](/Web%20of%20Science Categories)  |
 
