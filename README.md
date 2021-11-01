@@ -21,21 +21,20 @@ Here follows a table providing an early insight on all the classification scheme
 | Computer Science Subject Headings from Wikipedia     | Computer Science      | 7354       | 20    |          |
 | Journal of Economic Literature                       | Economics             | 858        | 3     |          |
 | STW Thesaurus for Economics                          | Economics             | 20K        | 4     |          |
-| Library Classification for Environmental Science     | Environmental Science | 166        | 3     |          |
 | GeoRef Thesaurus                                     | Geology               | 30K        | 5     |          |
 | U.S. Geological Survey Library Classification System | Geology               | 2k         | 6     |  [link](/U.S.%20Geological%20Survey)   |
 | Mathematics Subject Classification                   | Mathematics           | 6598       | 3     | [link](/Mathematics%20Subject%20Classification) |
 | Medical Subject Headings                             | Medicine              | 29K        | 13    |          |
 | Unified Medical Language System                      | Medicine              | 2.9M       | 30    |          |
-| National Library of Medicine classification          | Medicine              | 4439       | 4     |          |
+| National Library of Medicine classification          | Medicine              | 4652       | 4     |          |
 | PhilPapers Taxonomy                                  | Philosophy            | 7k         | 5     |          |
 | Physics and Astronomy Classif. Scheme                | Physics               | 8260       | 5     |          |
 | Physical Subject Headings                            | Physics               | 3224       | 6     |          |
 | PsycInfo and PsycTests Classification Systems        | Psychology            | 167        | 3     |  [link](PsycInfo520and%20PsycTests%20Classification%20Systems)  |
 | TheSoz                                               | Social Science        | 8223       | 6     |  [link](/TheSoz)  |
 | All Science Journal Classification Codes             | Multi-field           | 334        | 2     |          |
-| Fields of Research (ANZSRC)                          | Multi-field           | 1417       | 3     | [link](/ANZSRC%20Fields%20of%20Research) |
-| Socio-Economic Objective (ANZSRC)                    | Multi-field           | 988        | 4     |  [link](/ANZSRC%20Socio-Economic%20Objective)  |
+| Fields of Research (ANZSRC)                          | Multi-field           | 4406       | 3     | [link](/ANZSRC%20Fields%20of%20Research) |
+| Socio-Economic Objective (ANZSRC)                    | Multi-field           | 1974        | 4     |  [link](/ANZSRC%20Socio-Economic%20Objective)  |
 | ArXiv Subjects                                       | Multi-field           | 166        | 3     |          |
 | Research Fields, Courses and Disciplines (ASRC)      | Multi-field           | 1061       | 3     |          |
 | Dewey Decimal Classification                         | Multi-field           | 41K        | 27    |          |
@@ -52,5 +51,5 @@ Here follows a table providing an early insight on all the classification scheme
 | Nature Subjects                                      | Multi-field           | 2636       | 8     |  [link](/Nature%20Subjects)          |
 | Subject Resource Application Ontology                | Multi-field           | 425        | 7     | [link](/Subject%20Resource%20Application%20Ontology)  |
 | Unesco Thesaurus                                     | Multi-field           | 4436       | 6     |  [link](/Unesco%20Thesaurus)   |
-| Web of Science Categories                            | Multi-field           | 254        | 0     |          |
+| Web of Science Categories                            | Multi-field           | 254        | 1     |          |
 
