@@ -5,6 +5,7 @@ Classification schemes, such as controlled vocabularies, thesauri, taxonomies, a
 In this repository there are all the Python scripts we used to support our analysis.
 
 
+Here follows a table providing an early insight on all the classification schemes we have studied. If you are looking for the comprehensive table, please refer to [Full-Table.md](/Full%2DTable.md)
 
 
 | Classification Scheme                                | Main Discipline       | # Concepts | Depth | Folder   |
