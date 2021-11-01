@@ -12,7 +12,7 @@ Here follows a table providing an early insight on all the classification scheme
 |------------------------------------------------------|-----------------------|------------|-------|----------|
 | Agrovoc Thesaurus                                    | Agriculture           | 39K        | 14    | [link](/Agrovoc%20Thesaurus) |
 | Art and Architecture Thesaurus                       | Art \& Architecture   | 54K        | 20    |          |
-| EDAM                                                 | Bioinformatics        | 264        | 7     |          |
+| EDAM                                                 | Bioinformatics        | 264        | 7     |  [link](/EDAM)   |
 | Open Biological and Biomedical Ontology              | Biology               | 4.2M       | 39    |          |
 | Biomedical Ontologies from BioPortal                 | Biomedicine           | 13M        | -     |          |
 | ChemOnt                                              | Chemistry             | 4825       | 11    | [link](/ChemOnt) |
