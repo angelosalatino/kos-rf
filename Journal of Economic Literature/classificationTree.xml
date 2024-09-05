@@ -1,0 +1,4063 @@
+<?xml version="1.0"?>
+<data>
+  <classification level="1" language="English">
+    <code>A</code>
+    <description><![CDATA[General Economics and Teaching]]></description>
+    <classification level="2" language="English">
+      <code>A1</code>
+      <description><![CDATA[General Economics]]></description>
+      <classification level="3" language="English">
+        <code>A10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A11</code>
+        <description><![CDATA[Role of Economics &bull; Role of Economists &bull; Market for Economists]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A12</code>
+        <description><![CDATA[Relation of Economics to Other Disciplines]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A13</code>
+        <description><![CDATA[Relation of Economics to Social Values]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A14</code>
+        <description><![CDATA[Sociology of Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>A2</code>
+      <description><![CDATA[Economic Education and Teaching of Economics]]></description>
+      <classification level="3" language="English">
+        <code>A20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A21</code>
+        <description><![CDATA[Pre-college]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A22</code>
+        <description><![CDATA[Undergraduate]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A23</code>
+        <description><![CDATA[Graduate]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>A3</code>
+      <description><![CDATA[Collective Works]]></description>
+      <classification level="3" language="English">
+        <code>A30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A31</code>
+        <description><![CDATA[Collected Writings of Individuals]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A32</code>
+        <description><![CDATA[Collective Volumes]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A33</code>
+        <description><![CDATA[Handbooks]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>A39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>B</code>
+    <description><![CDATA[History of Economic Thought, Methodology, and Heterodox Approaches]]></description>
+    <classification level="2" language="English">
+      <code>B0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>B00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>B1</code>
+      <description><![CDATA[History of Economic Thought through 1925]]></description>
+      <classification level="3" language="English">
+        <code>B10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B11</code>
+        <description><![CDATA[Preclassical (Ancient, Medieval, Mercantilist, Physiocratic)]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B12</code>
+        <description><![CDATA[Classical (includes Adam Smith)]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B13</code>
+        <description><![CDATA[Neoclassical through 1925 (Austrian, Marshallian, Walrasian, Wicksellian)]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B14</code>
+        <description><![CDATA[Socialist &bull; Marxist]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B15</code>
+        <description><![CDATA[Historical &bull; Institutional &bull; Evolutionary]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B16</code>
+        <description><![CDATA[Quantitative and Mathematical]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B17</code>
+        <description><![CDATA[International Trade and Finance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>B2</code>
+      <description><![CDATA[History of Economic Thought since 1925]]></description>
+      <classification level="3" language="English">
+        <code>B20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B21</code>
+        <description><![CDATA[Microeconomics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B22</code>
+        <description><![CDATA[Macroeconomics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B23</code>
+        <description><![CDATA[Econometrics &bull; Quantitative and Mathematical Studies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B24</code>
+        <description><![CDATA[Socialist &bull; Marxist &bull; Sraffian]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B25</code>
+        <description><![CDATA[Historical &bull; Institutional &bull; Evolutionary &bull; Austrian &bull; Stockholm School]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B26</code>
+        <description><![CDATA[Financial Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B27</code>
+        <description><![CDATA[International Trade and Finance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>B3</code>
+      <description><![CDATA[History of Economic Thought:  Individuals]]></description>
+      <classification level="3" language="English">
+        <code>B30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B31</code>
+        <description><![CDATA[Individuals]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B32</code>
+        <description><![CDATA[Obituaries]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>B4</code>
+      <description><![CDATA[Economic Methodology]]></description>
+      <classification level="3" language="English">
+        <code>B40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B41</code>
+        <description><![CDATA[Economic Methodology]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>B5</code>
+      <description><![CDATA[Current Heterodox Approaches]]></description>
+      <classification level="3" language="English">
+        <code>B50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B51</code>
+        <description><![CDATA[Socialist &bull; Marxian &bull; Sraffian]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B52</code>
+        <description><![CDATA[Historical &bull; Institutional &bull; Evolutionary &bull; Modern Monetary Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B53</code>
+        <description><![CDATA[Austrian]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B54</code>
+        <description><![CDATA[Feminist Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B55</code>
+        <description><![CDATA[Social Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>B59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>C</code>
+    <description><![CDATA[Mathematical and Quantitative Methods]]></description>
+    <classification level="2" language="English">
+      <code>C0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>C00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C01</code>
+        <description><![CDATA[Econometrics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C02</code>
+        <description><![CDATA[Mathematical Methods]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C1</code>
+      <description><![CDATA[Econometric and Statistical Methods and Methodology:  General]]></description>
+      <classification level="3" language="English">
+        <code>C10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C11</code>
+        <description><![CDATA[Bayesian Analysis: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C12</code>
+        <description><![CDATA[Hypothesis Testing: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C13</code>
+        <description><![CDATA[Estimation: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C14</code>
+        <description><![CDATA[Semiparametric and Nonparametric Methods: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C15</code>
+        <description><![CDATA[Statistical Simulation Methods: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C18</code>
+        <description><![CDATA[Methodological Issues: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C2</code>
+      <description><![CDATA[Single Equation Models &bull; Single Variables]]></description>
+      <classification level="3" language="English">
+        <code>C20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C21</code>
+        <description><![CDATA[Cross-Sectional Models &bull; Spatial Models &bull; Treatment Effect Models &bull; Quantile Regressions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C22</code>
+        <description><![CDATA[Time-Series Models &bull; Dynamic Quantile Regressions &bull; Dynamic Treatment Effect Models &bull; Diffusion Processes]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C23</code>
+        <description><![CDATA[Panel Data Models &bull; Spatio-temporal Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C24</code>
+        <description><![CDATA[Truncated and Censored Models &bull; Switching Regression Models &bull; Threshold Regression Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C25</code>
+        <description><![CDATA[Discrete Regression and Qualitative Choice Models &bull; Discrete Regressors &bull; Proportions &bull; Probabilities]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C26</code>
+        <description><![CDATA[Instrumental Variables (IV) Estimation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C3</code>
+      <description><![CDATA[Multiple or Simultaneous Equation Models &bull; Multiple Variables]]></description>
+      <classification level="3" language="English">
+        <code>C30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C31</code>
+        <description><![CDATA[Cross-Sectional Models &bull; Spatial Models &bull; Treatment Effect Models &bull; Quantile Regressions &bull; Social Interaction Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C32</code>
+        <description><![CDATA[Time-Series Models &bull; Dynamic Quantile Regressions &bull; Dynamic Treatment Effect Models &bull; Diffusion Processes &bull; State Space Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C33</code>
+        <description><![CDATA[Panel Data Models &bull; Spatio-temporal Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C34</code>
+        <description><![CDATA[Truncated and Censored Models &bull; Switching Regression Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C35</code>
+        <description><![CDATA[Discrete Regression and Qualitative Choice Models &bull; Discrete Regressors &bull; Proportions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C36</code>
+        <description><![CDATA[Instrumental Variables (IV) Estimation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C38</code>
+        <description><![CDATA[Classification Methods &bull; Cluster Analysis &bull; Principal Components &bull; Factor Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C4</code>
+      <description><![CDATA[Econometric and Statistical Methods:  Special Topics]]></description>
+      <classification level="3" language="English">
+        <code>C40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C41</code>
+        <description><![CDATA[Duration Analysis &bull; Optimal Timing Strategies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C43</code>
+        <description><![CDATA[Index Numbers and Aggregation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C44</code>
+        <description><![CDATA[Operations Research &bull; Statistical Decision Theory ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C45</code>
+        <description><![CDATA[Neural Networks and Related Topics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C46</code>
+        <description><![CDATA[Specific Distributions &bull; Specific Statistics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C5</code>
+      <description><![CDATA[Econometric Modeling]]></description>
+      <classification level="3" language="English">
+        <code>C50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C51</code>
+        <description><![CDATA[Model Construction and Estimation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C52</code>
+        <description><![CDATA[Model Evaluation, Validation, and Selection]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C53</code>
+        <description><![CDATA[Forecasting and Prediction Methods &bull; Simulation Methods]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C54</code>
+        <description><![CDATA[Quantitative Policy Modeling]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C55</code>
+        <description><![CDATA[Large Data Sets: Modeling and Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C57</code>
+        <description><![CDATA[Econometrics of Games and Auctions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C58</code>
+        <description><![CDATA[Financial Econometrics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C6</code>
+      <description><![CDATA[Mathematical Methods &bull; Programming Models &bull; Mathematical and Simulation Modeling]]></description>
+      <classification level="3" language="English">
+        <code>C60</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C61</code>
+        <description><![CDATA[Optimization Techniques &bull; Programming Models &bull; Dynamic Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C62</code>
+        <description><![CDATA[Existence and Stability Conditions of Equilibrium]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C63</code>
+        <description><![CDATA[Computational Techniques &bull; Simulation Modeling]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C65</code>
+        <description><![CDATA[Miscellaneous Mathematical Tools]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C67</code>
+        <description><![CDATA[Input&ndash;Output Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C68</code>
+        <description><![CDATA[Computable General Equilibrium Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C69</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C7</code>
+      <description><![CDATA[Game Theory and Bargaining Theory]]></description>
+      <classification level="3" language="English">
+        <code>C70</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C71</code>
+        <description><![CDATA[Cooperative Games]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C72</code>
+        <description><![CDATA[Noncooperative Games]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C73</code>
+        <description><![CDATA[Stochastic and Dynamic Games &bull; Evolutionary Games &bull; Repeated Games]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C78</code>
+        <description><![CDATA[Bargaining Theory &bull; Matching Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C79</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C8</code>
+      <description><![CDATA[Data Collection and Data Estimation Methodology &bull; Computer Programs]]></description>
+      <classification level="3" language="English">
+        <code>C80</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C81</code>
+        <description><![CDATA[Methodology for Collecting, Estimating, and Organizing Microeconomic Data &bull; Data Access]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C82</code>
+        <description><![CDATA[Methodology for Collecting, Estimating, and Organizing Macroeconomic Data &bull; Data Access]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C83</code>
+        <description><![CDATA[Survey Methods &bull; Sampling Methods]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C87</code>
+        <description><![CDATA[Econometric Software]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C88</code>
+        <description><![CDATA[Other Computer Software]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C89</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>C9</code>
+      <description><![CDATA[Design of Experiments]]></description>
+      <classification level="3" language="English">
+        <code>C90</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C91</code>
+        <description><![CDATA[Laboratory, Individual Behavior]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C92</code>
+        <description><![CDATA[Laboratory, Group Behavior]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C93</code>
+        <description><![CDATA[Field Experiments]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>C99</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>D</code>
+    <description><![CDATA[Microeconomics]]></description>
+    <classification level="2" language="English">
+      <code>D0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>D00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D01</code>
+        <description><![CDATA[Microeconomic Behavior: Underlying Principles]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D02</code>
+        <description><![CDATA[Institutions: Design, Formation, Operations, and Impact]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D04</code>
+        <description><![CDATA[Microeconomic Policy: Formulation, Implementation, and Evaluation]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D1</code>
+      <description><![CDATA[Household Behavior and Family Economics]]></description>
+      <classification level="3" language="English">
+        <code>D10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D11</code>
+        <description><![CDATA[Consumer Economics: Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D12</code>
+        <description><![CDATA[Consumer Economics: Empirical Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D13</code>
+        <description><![CDATA[Household Production and Intrahousehold Allocation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D14</code>
+        <description><![CDATA[Household Saving &bull; Personal Finance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D15</code>
+        <description><![CDATA[Intertemporal Household Choice &bull; Life Cycle Models and Saving]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D16</code>
+        <description><![CDATA[Collaborative Consumption]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D18</code>
+        <description><![CDATA[Consumer Protection]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D2</code>
+      <description><![CDATA[Production and Organizations]]></description>
+      <classification level="3" language="English">
+        <code>D20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D21</code>
+        <description><![CDATA[Firm Behavior: Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D22</code>
+        <description><![CDATA[Firm Behavior: Empirical Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D23</code>
+        <description><![CDATA[Organizational Behavior &bull; Transaction Costs &bull; Property Rights]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D24</code>
+        <description><![CDATA[Production &bull; Cost &bull; Capital &bull; Capital, Total Factor, and Multifactor Productivity &bull; Capacity]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D25</code>
+        <description><![CDATA[Intertemporal Firm Choice: Investment, Capacity, and Financing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D26</code>
+        <description><![CDATA[Crowd-Based Firms]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D3</code>
+      <description><![CDATA[Distribution]]></description>
+      <classification level="3" language="English">
+        <code>D30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D31</code>
+        <description><![CDATA[Personal Income, Wealth, and Their Distributions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D33</code>
+        <description><![CDATA[Factor Income Distribution]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D4</code>
+      <description><![CDATA[Market Structure, Pricing, and Design]]></description>
+      <classification level="3" language="English">
+        <code>D40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D41</code>
+        <description><![CDATA[Perfect Competition]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D42</code>
+        <description><![CDATA[Monopoly]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D43</code>
+        <description><![CDATA[Oligopoly and Other Forms of Market Imperfection]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D44</code>
+        <description><![CDATA[Auctions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D45</code>
+        <description><![CDATA[Rationing &bull; Licensing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D46</code>
+        <description><![CDATA[Value Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D47</code>
+        <description><![CDATA[Market Design]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D5</code>
+      <description><![CDATA[General Equilibrium and Disequilibrium]]></description>
+      <classification level="3" language="English">
+        <code>D50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D51</code>
+        <description><![CDATA[Exchange and Production Economies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D52</code>
+        <description><![CDATA[Incomplete Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D53</code>
+        <description><![CDATA[Financial Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D57</code>
+        <description><![CDATA[Input&ndash;Output Tables and Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D58</code>
+        <description><![CDATA[Computable and Other Applied General Equilibrium Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D6</code>
+      <description><![CDATA[Welfare Economics]]></description>
+      <classification level="3" language="English">
+        <code>D60</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D61</code>
+        <description><![CDATA[Allocative Efficiency &bull; Cost&ndash;Benefit Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D62</code>
+        <description><![CDATA[Externalities]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D63</code>
+        <description><![CDATA[Equity, Justice, Inequality, and Other Normative Criteria and Measurement]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D64</code>
+        <description><![CDATA[Altruism &bull; Philanthropy &bull; Intergenerational Transfers]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D69</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D7</code>
+      <description><![CDATA[Analysis of Collective Decision-Making]]></description>
+      <classification level="3" language="English">
+        <code>D70</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D71</code>
+        <description><![CDATA[Social Choice &bull; Clubs &bull; Committees &bull; Associations]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D72</code>
+        <description><![CDATA[Political Processes: Rent-Seeking, Lobbying, Elections, Legislatures, and Voting Behavior]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D73</code>
+        <description><![CDATA[Bureaucracy &bull; Administrative Processes in Public Organizations &bull; Corruption]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D74</code>
+        <description><![CDATA[Conflict &bull; Conflict Resolution &bull; Alliances &bull; Revolutions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D78</code>
+        <description><![CDATA[Positive Analysis of Policy Formulation and Implementation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D79</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D8</code>
+      <description><![CDATA[Information, Knowledge, and Uncertainty]]></description>
+      <classification level="3" language="English">
+        <code>D80</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D81</code>
+        <description><![CDATA[Criteria for Decision-Making under Risk and Uncertainty]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D82</code>
+        <description><![CDATA[Asymmetric and Private Information &bull; Mechanism Design]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D83</code>
+        <description><![CDATA[Search &bull; Learning &bull; Information and Knowledge &bull; Communication &bull; Belief &bull; Unawareness]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D84</code>
+        <description><![CDATA[Expectations &bull; Speculations]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D85</code>
+        <description><![CDATA[Network Formation and Analysis: Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D86</code>
+        <description><![CDATA[Economics of Contract: Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D87</code>
+        <description><![CDATA[Neuroeconomics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D89</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>D9</code>
+      <description><![CDATA[Micro-Based Behavioral Economics]]></description>
+      <classification level="3" language="English">
+        <code>D90</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>D91</code>
+        <description><![CDATA[Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>E</code>
+    <description><![CDATA[Macroeconomics and Monetary Economics]]></description>
+    <classification level="2" language="English">
+      <code>E0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>E00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E01</code>
+        <description><![CDATA[Measurement and Data on National Income and Product Accounts and Wealth &bull; Environmental Accounts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E02</code>
+        <description><![CDATA[Institutions and the Macroeconomy]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>E1</code>
+      <description><![CDATA[General Aggregative Models]]></description>
+      <classification level="3" language="English">
+        <code>E10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E11</code>
+        <description><![CDATA[Marxian &bull; Sraffian &bull; Kaleckian]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E12</code>
+        <description><![CDATA[Keynes &bull; Keynesian &bull; Post-Keynesian &bull; Modern Monetary Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E14</code>
+        <description><![CDATA[Austrian &bull; Evolutionary &bull; Institutional ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E13</code>
+        <description><![CDATA[Neoclassical]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E16</code>
+        <description><![CDATA[Social Accounting Matrix]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E17</code>
+        <description><![CDATA[Forecasting and Simulation: Models and Applications]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>E2</code>
+      <description><![CDATA[Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy]]></description>
+      <classification level="3" language="English">
+        <code>E20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E21</code>
+        <description><![CDATA[Consumption &bull; Saving &bull; Wealth]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E22</code>
+        <description><![CDATA[Investment &bull; Capital &bull; Intangible Capital &bull; Capacity]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E23</code>
+        <description><![CDATA[Production]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E24</code>
+        <description><![CDATA[Employment &bull; Unemployment &bull; Wages &bull; Intergenerational Income Distribution &bull; Aggregate Human Capital &bull; Aggregate Labor Productivity]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E25</code>
+        <description><![CDATA[Aggregate Factor Income Distribution]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E26</code>
+        <description><![CDATA[Informal Economy &bull; Underground Economy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E27</code>
+        <description><![CDATA[Forecasting and Simulation: Models and Applications]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>E3</code>
+      <description><![CDATA[Prices, Business Fluctuations, and Cycles]]></description>
+      <classification level="3" language="English">
+        <code>E30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E31</code>
+        <description><![CDATA[Price Level &bull; Inflation &bull; Deflation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E32</code>
+        <description><![CDATA[Business Fluctuations &bull; Cycles]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E37</code>
+        <description><![CDATA[Forecasting and Simulation: Models and Applications]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>E4</code>
+      <description><![CDATA[Money and Interest Rates]]></description>
+      <classification level="3" language="English">
+        <code>E40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E41</code>
+        <description><![CDATA[Demand for Money]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E42</code>
+        <description><![CDATA[Monetary Systems &bull; Standards &bull; Regimes &bull; Government and the Monetary System &bull; Payment Systems]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E43</code>
+        <description><![CDATA[Interest Rates: Determination, Term Structure, and Effects ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E44</code>
+        <description><![CDATA[Financial Markets and the Macroeconomy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E47</code>
+        <description><![CDATA[Forecasting and Simulation: Models and Applications]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>E5</code>
+      <description><![CDATA[Monetary Policy, Central Banking, and the Supply of Money and Credit]]></description>
+      <classification level="3" language="English">
+        <code>E50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E51</code>
+        <description><![CDATA[Money Supply &bull; Credit &bull; Money Multipliers]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E52</code>
+        <description><![CDATA[Monetary Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E58</code>
+        <description><![CDATA[Central Banks and Their Policies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>E6</code>
+      <description><![CDATA[Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook]]></description>
+      <classification level="3" language="English">
+        <code>E60</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E61</code>
+        <description><![CDATA[Policy  Objectives &bull; Policy Designs and Consistency &bull; Policy Coordination]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E62</code>
+        <description><![CDATA[Fiscal Policy &bull; Modern Monetary Theory]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E63</code>
+        <description><![CDATA[Comparative or Joint Analysis of Fiscal and Monetary Policy &bull; Stabilization &bull; Treasury Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E64</code>
+        <description><![CDATA[Incomes Policy &bull; Price Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E65</code>
+        <description><![CDATA[Studies of Particular Policy Episodes]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E66</code>
+        <description><![CDATA[General Outlook and Conditions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E69</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>E7</code>
+      <description><![CDATA[Macro-Based Behavioral Economics]]></description>
+      <classification level="3" language="English">
+        <code>E70</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>E71</code>
+        <description><![CDATA[Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on the Macro Economy]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>F</code>
+    <description><![CDATA[International Economics]]></description>
+    <classification level="2" language="English">
+      <code>F0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>F00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F01</code>
+        <description><![CDATA[Global Outlook]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F02</code>
+        <description><![CDATA[International Economic Order and Integration]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>F1</code>
+      <description><![CDATA[Trade]]></description>
+      <classification level="3" language="English">
+        <code>F10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F11</code>
+        <description><![CDATA[Neoclassical Models of Trade]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F12</code>
+        <description><![CDATA[Models of Trade with Imperfect Competition and Scale Economies &bull; Fragmentation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F13</code>
+        <description><![CDATA[Trade Policy &bull; International Trade Organizations]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F14</code>
+        <description><![CDATA[Empirical Studies of Trade]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F15</code>
+        <description><![CDATA[Economic Integration]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F16</code>
+        <description><![CDATA[Trade and Labor Market Interactions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F17</code>
+        <description><![CDATA[Trade Forecasting and Simulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F18</code>
+        <description><![CDATA[Trade and Environment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>F2</code>
+      <description><![CDATA[International Factor Movements and International Business]]></description>
+      <classification level="3" language="English">
+        <code>F20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F21</code>
+        <description><![CDATA[International Investment &bull; Long-Term Capital Movements]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F22</code>
+        <description><![CDATA[International Migration]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F23</code>
+        <description><![CDATA[Multinational Firms &bull; International Business]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F24</code>
+        <description><![CDATA[Remittances]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>F3</code>
+      <description><![CDATA[International Finance]]></description>
+      <classification level="3" language="English">
+        <code>F30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F31</code>
+        <description><![CDATA[Foreign Exchange]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F32</code>
+        <description><![CDATA[Current Account Adjustment &bull; Short-Term Capital Movements]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F33</code>
+        <description><![CDATA[International Monetary Arrangements and Institutions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F34</code>
+        <description><![CDATA[International Lending and Debt Problems]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F35</code>
+        <description><![CDATA[Foreign Aid]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F36</code>
+        <description><![CDATA[Financial Aspects of Economic Integration]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F37</code>
+        <description><![CDATA[International Finance Forecasting and Simulation: Models and Applications]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F38</code>
+        <description><![CDATA[International Financial Policy: Financial Transactions Tax; Capital Controls]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>F4</code>
+      <description><![CDATA[Macroeconomic Aspects of International Trade and Finance]]></description>
+      <classification level="3" language="English">
+        <code>F40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F41</code>
+        <description><![CDATA[Open Economy Macroeconomics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F42</code>
+        <description><![CDATA[International Policy Coordination and Transmission]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F43</code>
+        <description><![CDATA[Economic Growth of Open Economies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F44</code>
+        <description><![CDATA[International Business Cycles]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F45</code>
+        <description><![CDATA[Macroeconomic Issues of Monetary Unions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F47</code>
+        <description><![CDATA[Forecasting and Simulation: Models and Applications]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>F5</code>
+      <description><![CDATA[International Relations, National Security, and International Political Economy]]></description>
+      <classification level="3" language="English">
+        <code>F50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F51</code>
+        <description><![CDATA[International Conflicts &bull; Negotiations &bull; Sanctions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F52</code>
+        <description><![CDATA[National Security &bull; Economic Nationalism]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F53</code>
+        <description><![CDATA[International Agreements and Observance &bull; International Organizations]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F54</code>
+        <description><![CDATA[Colonialism &bull; Imperialism &bull; Postcolonialism]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F55</code>
+        <description><![CDATA[International Institutional Arrangements]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>F6</code>
+      <description><![CDATA[Economic Impacts of Globalization]]></description>
+      <classification level="3" language="English">
+        <code>F60</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F61</code>
+        <description><![CDATA[Microeconomic Impacts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F62</code>
+        <description><![CDATA[Macroeconomic Impacts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F63</code>
+        <description><![CDATA[Economic Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F64</code>
+        <description><![CDATA[Environment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F65</code>
+        <description><![CDATA[Finance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F66</code>
+        <description><![CDATA[Labor]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F68</code>
+        <description><![CDATA[Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>F69</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>G</code>
+    <description><![CDATA[Financial Economics]]></description>
+    <classification level="2" language="English">
+      <code>G0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>G00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G01</code>
+        <description><![CDATA[Financial Crises]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>G1</code>
+      <description><![CDATA[General Financial Markets]]></description>
+      <classification level="3" language="English">
+        <code>G10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G11</code>
+        <description><![CDATA[Portfolio Choice &bull; Investment Decisions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G12</code>
+        <description><![CDATA[Asset Pricing &bull; Trading Volume &bull; Bond Interest Rates]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G13</code>
+        <description><![CDATA[Contingent Pricing &bull; Futures Pricing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G14</code>
+        <description><![CDATA[Information and Market Efficiency &bull; Event Studies &bull; Insider Trading]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G15</code>
+        <description><![CDATA[International Financial Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G17</code>
+        <description><![CDATA[Financial Forecasting and Simulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G18</code>
+        <description><![CDATA[Government Policy and Regulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>G2</code>
+      <description><![CDATA[Financial Institutions and Services]]></description>
+      <classification level="3" language="English">
+        <code>G20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G21</code>
+        <description><![CDATA[Banks &bull; Depository Institutions &bull; Micro Finance Institutions &bull; Mortgages]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G22</code>
+        <description><![CDATA[Insurance &bull; Insurance Companies &bull; Actuarial Studies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G23</code>
+        <description><![CDATA[Non-bank Financial Institutions &bull; Financial Instruments &bull; Institutional Investors]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G24</code>
+        <description><![CDATA[Investment Banking &bull; Venture Capital &bull; Brokerage &bull; Ratings and Ratings Agencies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G28</code>
+        <description><![CDATA[Government Policy and Regulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>G3</code>
+      <description><![CDATA[Corporate Finance and Governance]]></description>
+      <classification level="3" language="English">
+        <code>G30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G31</code>
+        <description><![CDATA[Capital Budgeting &bull; Fixed Investment and Inventory Studies &bull; Capacity]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G32</code>
+        <description><![CDATA[Financing Policy &bull; Financial Risk and Risk Management &bull; Capital and Ownership Structure &bull; Value of Firms &bull; Goodwill]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G33</code>
+        <description><![CDATA[Bankruptcy &bull; Liquidation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G34</code>
+        <description><![CDATA[Mergers &bull; Acquisitions &bull; Restructuring &bull; Corporate Governance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G35</code>
+        <description><![CDATA[Payout Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G38</code>
+        <description><![CDATA[Government Policy and Regulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>G4</code>
+      <description><![CDATA[Behavioral Finance]]></description>
+      <classification level="3" language="English">
+        <code>G40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G41</code>
+        <description><![CDATA[Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making in Financial Markets]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>G5</code>
+      <description><![CDATA[Household Finance ]]></description>
+      <classification level="3" language="English">
+        <code>G50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G51</code>
+        <description><![CDATA[Household Saving, Borrowing, Debt, and Wealth]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G52</code>
+        <description><![CDATA[Insurance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G53</code>
+        <description><![CDATA[Financial Literacy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>G59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>H</code>
+    <description><![CDATA[Public Economics]]></description>
+    <classification level="2" language="English">
+      <code>H0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>H00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H1</code>
+      <description><![CDATA[Structure and Scope of Government]]></description>
+      <classification level="3" language="English">
+        <code>H10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H11</code>
+        <description><![CDATA[Structure, Scope, and Performance of Government]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H12</code>
+        <description><![CDATA[Crisis Management]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H13</code>
+        <description><![CDATA[Economics of Eminent Domain &bull; Expropriation &bull; Nationalization]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H2</code>
+      <description><![CDATA[Taxation, Subsidies, and Revenue]]></description>
+      <classification level="3" language="English">
+        <code>H20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H21</code>
+        <description><![CDATA[Efficiency &bull; Optimal Taxation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H22</code>
+        <description><![CDATA[Incidence]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H23</code>
+        <description><![CDATA[Externalities &bull; Redistributive Effects &bull; Environmental Taxes and Subsidies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H24</code>
+        <description><![CDATA[Personal Income and Other Nonbusiness Taxes and Subsidies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H25</code>
+        <description><![CDATA[Business Taxes and Subsidies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H26</code>
+        <description><![CDATA[Tax Evasion and Avoidance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H27</code>
+        <description><![CDATA[Other Sources of Revenue]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H3</code>
+      <description><![CDATA[Fiscal Policies and Behavior of Economic Agents]]></description>
+      <classification level="3" language="English">
+        <code>H30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H31</code>
+        <description><![CDATA[Household]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H32</code>
+        <description><![CDATA[Firm]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H4</code>
+      <description><![CDATA[Publicly Provided Goods]]></description>
+      <classification level="3" language="English">
+        <code>H40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H41</code>
+        <description><![CDATA[Public Goods]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H42</code>
+        <description><![CDATA[Publicly Provided Private Goods]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H43</code>
+        <description><![CDATA[Project Evaluation &bull; Social Discount Rate]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H44</code>
+        <description><![CDATA[Publicly Provided Goods: Mixed Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H5</code>
+      <description><![CDATA[National Government Expenditures and Related Policies]]></description>
+      <classification level="3" language="English">
+        <code>H50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H51</code>
+        <description><![CDATA[Government Expenditures and Health]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H52</code>
+        <description><![CDATA[Government Expenditures and Education]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H53</code>
+        <description><![CDATA[Government Expenditures and Welfare Programs]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H54</code>
+        <description><![CDATA[Infrastructures &bull; Other Public Investment and Capital Stock]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H55</code>
+        <description><![CDATA[Social Security and Public Pensions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H56</code>
+        <description><![CDATA[National Security and War]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H57</code>
+        <description><![CDATA[Procurement]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H6</code>
+      <description><![CDATA[National Budget, Deficit, and Debt]]></description>
+      <classification level="3" language="English">
+        <code>H60</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H61</code>
+        <description><![CDATA[Budget &bull; Budget Systems]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H62</code>
+        <description><![CDATA[Deficit &bull; Surplus]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H63</code>
+        <description><![CDATA[Debt &bull; Debt Management &bull; Sovereign Debt]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H68</code>
+        <description><![CDATA[Forecasts of Budgets, Deficits, and Debt]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H69</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H7</code>
+      <description><![CDATA[State and Local Government &bull; Intergovernmental Relations]]></description>
+      <classification level="3" language="English">
+        <code>H70</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H71</code>
+        <description><![CDATA[State and Local Taxation, Subsidies, and Revenue]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H72</code>
+        <description><![CDATA[State and Local Budget and Expenditures]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H73</code>
+        <description><![CDATA[Interjurisdictional Differentials and Their Effects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H74</code>
+        <description><![CDATA[State and Local Borrowing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H75</code>
+        <description><![CDATA[State and Local Government: Health &bull; Education &bull; Welfare &bull; Public Pensions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H76</code>
+        <description><![CDATA[State and Local Government: Other Expenditure Categories]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H77</code>
+        <description><![CDATA[Intergovernmental Relations &bull; Federalism &bull; Secession]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H79</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>H8</code>
+      <description><![CDATA[Miscellaneous Issues]]></description>
+      <classification level="3" language="English">
+        <code>H80</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H81</code>
+        <description><![CDATA[Governmental Loans &bull; Loan Guarantees &bull; Credits &bull; Grants &bull; Bailouts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H82</code>
+        <description><![CDATA[Governmental Property]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H83</code>
+        <description><![CDATA[Public Administration &bull; Public Sector Accounting and Audits]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H84</code>
+        <description><![CDATA[Disaster Aid]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H87</code>
+        <description><![CDATA[International Fiscal Issues &bull; International Public Goods]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>H89</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>I</code>
+    <description><![CDATA[Health, Education, and Welfare]]></description>
+    <classification level="2" language="English">
+      <code>I0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>I00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>I1</code>
+      <description><![CDATA[Health]]></description>
+      <classification level="3" language="English">
+        <code>I10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I11</code>
+        <description><![CDATA[Analysis of Health Care Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I12</code>
+        <description><![CDATA[Health Behavior]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I13</code>
+        <description><![CDATA[Health Insurance, Public and Private]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I14</code>
+        <description><![CDATA[Health and Inequality]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I15</code>
+        <description><![CDATA[Health and Economic Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I18</code>
+        <description><![CDATA[Government Policy &bull; Regulation &bull; Public Health]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>I2</code>
+      <description><![CDATA[Education and Research Institutions]]></description>
+      <classification level="3" language="English">
+        <code>I20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I21</code>
+        <description><![CDATA[Analysis of Education]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I22</code>
+        <description><![CDATA[Educational Finance &bull; Financial Aid]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I23</code>
+        <description><![CDATA[Higher Education &bull; Research Institutions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I24</code>
+        <description><![CDATA[Education and Inequality]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I25</code>
+        <description><![CDATA[Education and Economic Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I26</code>
+        <description><![CDATA[Returns to Education]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I28</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>I3</code>
+      <description><![CDATA[Welfare, Well-Being, and Poverty]]></description>
+      <classification level="3" language="English">
+        <code>I30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I31</code>
+        <description><![CDATA[General Welfare, Well-Being  ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I32</code>
+        <description><![CDATA[Measurement and Analysis of Poverty]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I38</code>
+        <description><![CDATA[Government Policy &bull; Provision and Effects of Welfare Programs]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>I39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>J</code>
+    <description><![CDATA[Labor and Demographic Economics]]></description>
+    <classification level="2" language="English">
+      <code>J0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>J00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J01</code>
+        <description><![CDATA[Labor Economics: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J08</code>
+        <description><![CDATA[Labor Economics Policies]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J1</code>
+      <description><![CDATA[Demographic Economics]]></description>
+      <classification level="3" language="English">
+        <code>J10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J11</code>
+        <description><![CDATA[Demographic Trends, Macroeconomic Effects, and Forecasts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J12</code>
+        <description><![CDATA[Marriage &bull; Marital Dissolution &bull; Family Structure &bull; Domestic Abuse]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J13</code>
+        <description><![CDATA[Fertility &bull; Family Planning &bull; Child Care &bull; Children &bull; Youth]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J14</code>
+        <description><![CDATA[Economics of the Elderly &bull; Economics of Disability &bull; Non-Labor Market Discrimination]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J15</code>
+        <description><![CDATA[Economics of Minorities, Races, Indigenous Peoples, and Immigrants &bull; Non-labor Discrimination]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J16</code>
+        <description><![CDATA[Economics of Gender &bull; Non-labor Discrimination]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J17</code>
+        <description><![CDATA[Value of Life &bull; Forgone Income]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J18</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J2</code>
+      <description><![CDATA[Demand and Supply of Labor]]></description>
+      <classification level="3" language="English">
+        <code>J20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J21</code>
+        <description><![CDATA[Labor Force and Employment, Size, and Structure]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J22</code>
+        <description><![CDATA[Time Allocation and Labor Supply]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J23</code>
+        <description><![CDATA[Labor Demand]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J24</code>
+        <description><![CDATA[Human Capital &bull; Skills &bull; Occupational Choice &bull; Labor Productivity]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J26</code>
+        <description><![CDATA[Retirement &bull; Retirement Policies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J28</code>
+        <description><![CDATA[Safety &bull; Job Satisfaction &bull; Related Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J3</code>
+      <description><![CDATA[Wages, Compensation, and Labor Costs]]></description>
+      <classification level="3" language="English">
+        <code>J30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J31</code>
+        <description><![CDATA[Wage Level and Structure &bull; Wage Differentials]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J32</code>
+        <description><![CDATA[Nonwage Labor Costs and Benefits &bull; Retirement Plans &bull; Private Pensions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J33</code>
+        <description><![CDATA[Compensation Packages &bull; Payment Methods]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J38</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J4</code>
+      <description><![CDATA[Particular Labor Markets]]></description>
+      <classification level="3" language="English">
+        <code>J40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J41</code>
+        <description><![CDATA[Labor Contracts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J42</code>
+        <description><![CDATA[Monopsony &bull; Segmented Labor Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J43</code>
+        <description><![CDATA[Agricultural Labor Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J44</code>
+        <description><![CDATA[Professional Labor Markets &bull; Occupational Licensing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J45</code>
+        <description><![CDATA[Public Sector Labor Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J46</code>
+        <description><![CDATA[Informal Labor Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J47</code>
+        <description><![CDATA[Coercive Labor Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J48</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J5</code>
+      <description><![CDATA[Labor&ndash;Management Relations, Trade Unions, and Collective Bargaining]]></description>
+      <classification level="3" language="English">
+        <code>J50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J51</code>
+        <description><![CDATA[Trade Unions: Objectives, Structure, and Effects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J52</code>
+        <description><![CDATA[Dispute Resolution:  Strikes, Arbitration, and Mediation &bull; Collective Bargaining]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J53</code>
+        <description><![CDATA[Labor&ndash;Management Relations &bull; Industrial Jurisprudence]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J54</code>
+        <description><![CDATA[Producer Cooperatives &bull; Labor Managed Firms &bull; Employee Ownership]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J58</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J6</code>
+      <description><![CDATA[Mobility, Unemployment, Vacancies, and Immigrant Workers]]></description>
+      <classification level="3" language="English">
+        <code>J60</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J61</code>
+        <description><![CDATA[Geographic Labor Mobility &bull; Immigrant Workers]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J62</code>
+        <description><![CDATA[Job, Occupational, and Intergenerational Mobility]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J63</code>
+        <description><![CDATA[Turnover &bull; Vacancies &bull; Layoffs]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J64</code>
+        <description><![CDATA[Unemployment: Models, Duration, Incidence, and Job Search]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J65</code>
+        <description><![CDATA[Unemployment Insurance &bull; Severance Pay &bull; Plant Closings]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J68</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J69</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J7</code>
+      <description><![CDATA[Labor Discrimination]]></description>
+      <classification level="3" language="English">
+        <code>J70</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J71</code>
+        <description><![CDATA[Discrimination]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J78</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J79</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>J8</code>
+      <description><![CDATA[Labor Standards: National and International]]></description>
+      <classification level="3" language="English">
+        <code>J80</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J81</code>
+        <description><![CDATA[Working Conditions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J82</code>
+        <description><![CDATA[Labor Force Composition]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J83</code>
+        <description><![CDATA[Workers' Rights]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J88</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>J89</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>K</code>
+    <description><![CDATA[Law and Economics]]></description>
+    <classification level="2" language="English">
+      <code>K0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>K00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>K1</code>
+      <description><![CDATA[Basic Areas of Law]]></description>
+      <classification level="3" language="English">
+        <code>K10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K11</code>
+        <description><![CDATA[Property Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K12</code>
+        <description><![CDATA[Contract Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K13</code>
+        <description><![CDATA[Tort Law and Product Liability &bull; Forensic Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K14</code>
+        <description><![CDATA[Criminal Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K15</code>
+        <description><![CDATA[Civil Law &bull; Common Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K16</code>
+        <description><![CDATA[Election Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>K2</code>
+      <description><![CDATA[Regulation and Business Law]]></description>
+      <classification level="3" language="English">
+        <code>K20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K21</code>
+        <description><![CDATA[Antitrust Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K22</code>
+        <description><![CDATA[Business and Securities Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K23</code>
+        <description><![CDATA[Regulated Industries and Administrative Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K24</code>
+        <description><![CDATA[Cyber Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K25</code>
+        <description><![CDATA[Real Estate Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>K3</code>
+      <description><![CDATA[Other Substantive Areas of Law]]></description>
+      <classification level="3" language="English">
+        <code>K30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K31</code>
+        <description><![CDATA[Labor Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K32</code>
+        <description><![CDATA[Energy, Environmental, Health, and Safety Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K33</code>
+        <description><![CDATA[International Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K34</code>
+        <description><![CDATA[Tax Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K35</code>
+        <description><![CDATA[Personal Bankruptcy Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K36</code>
+        <description><![CDATA[Family and Personal Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K37</code>
+        <description><![CDATA[Immigration Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K38</code>
+        <description><![CDATA[Human Rights Law &bull; Gender Law &bull; Animal Rights Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>K4</code>
+      <description><![CDATA[Legal Procedure, the Legal System, and Illegal Behavior]]></description>
+      <classification level="3" language="English">
+        <code>K40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K41</code>
+        <description><![CDATA[Litigation Process]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K42</code>
+        <description><![CDATA[Illegal Behavior and the Enforcement of Law]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>K49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>L</code>
+    <description><![CDATA[Industrial Organization]]></description>
+    <classification level="2" language="English">
+      <code>L0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>L00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L1</code>
+      <description><![CDATA[Market Structure, Firm Strategy, and Market Performance]]></description>
+      <classification level="3" language="English">
+        <code>L10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L11</code>
+        <description><![CDATA[Production, Pricing, and Market Structure &bull; Size Distribution of Firms]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L12</code>
+        <description><![CDATA[Monopoly &bull; Monopolization Strategies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L13</code>
+        <description><![CDATA[Oligopoly and Other Imperfect Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L14</code>
+        <description><![CDATA[Transactional Relationships &bull; Contracts and Reputation &bull; Networks]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L15</code>
+        <description><![CDATA[Information and Product Quality &bull; Standardization and Compatibility]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L16</code>
+        <description><![CDATA[Industrial Organization and Macroeconomics: Industrial Structure and Structural Change &bull; Industrial Price Indices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L17</code>
+        <description><![CDATA[Open Source Products and Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L2</code>
+      <description><![CDATA[Firm Objectives, Organization, and Behavior]]></description>
+      <classification level="3" language="English">
+        <code>L20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L21</code>
+        <description><![CDATA[Business Objectives of the Firm]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L22</code>
+        <description><![CDATA[Firm Organization and Market Structure]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L23</code>
+        <description><![CDATA[Organization of Production]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L24</code>
+        <description><![CDATA[Contracting Out &bull; Joint Ventures &bull; Technology Licensing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L25</code>
+        <description><![CDATA[Firm Performance: Size, Diversification, and Scope]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L26</code>
+        <description><![CDATA[Entrepreneurship]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L3</code>
+      <description><![CDATA[Nonprofit Organizations and Public Enterprise]]></description>
+      <classification level="3" language="English">
+        <code>L30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L31</code>
+        <description><![CDATA[Nonprofit Institutions &bull; NGOs &bull; Social Entrepreneurship]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L32</code>
+        <description><![CDATA[Public Enterprises &bull; Public-Private Enterprises]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L33</code>
+        <description><![CDATA[Comparison of Public and Private Enterprises and Nonprofit Institutions &bull; Privatization &bull; Contracting Out]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L38</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L4</code>
+      <description><![CDATA[Antitrust Issues and Policies]]></description>
+      <classification level="3" language="English">
+        <code>L40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L41</code>
+        <description><![CDATA[Monopolization &bull; Horizontal Anticompetitive Practices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L42</code>
+        <description><![CDATA[Vertical Restraints &bull; Resale Price Maintenance &bull; Quantity Discounts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L43</code>
+        <description><![CDATA[Legal Monopolies and Regulation or Deregulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L44</code>
+        <description><![CDATA[Antitrust Policy and Public Enterprises, Nonprofit Institutions, and Professional Organizations]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L5</code>
+      <description><![CDATA[Regulation and Industrial Policy]]></description>
+      <classification level="3" language="English">
+        <code>L50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L51</code>
+        <description><![CDATA[Economics of Regulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L52</code>
+        <description><![CDATA[Industrial Policy &bull; Sectoral Planning Methods]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L53</code>
+        <description><![CDATA[Enterprise Policy ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L6</code>
+      <description><![CDATA[Industry Studies: Manufacturing]]></description>
+      <classification level="3" language="English">
+        <code>L60</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L61</code>
+        <description><![CDATA[Metals and Metal Products &bull; Cement &bull; Glass &bull; Ceramics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L62</code>
+        <description><![CDATA[Automobiles &bull; Other Transportation Equipment &bull; Related Parts and Equipment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L63</code>
+        <description><![CDATA[Microelectronics &bull; Computers &bull; Communications Equipment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L64</code>
+        <description><![CDATA[Other Machinery &bull; Business Equipment &bull; Armaments]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L65</code>
+        <description><![CDATA[Chemicals &bull; Rubber &bull; Drugs &bull; Biotechnology &bull; Plastics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L66</code>
+        <description><![CDATA[Food &bull; Beverages &bull; Cosmetics &bull; Tobacco &bull; Wine and Spirits]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L67</code>
+        <description><![CDATA[Other Consumer Nondurables: Clothing, Textiles, Shoes, and Leather Goods; Household Goods; Sports Equipment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L68</code>
+        <description><![CDATA[Appliances &bull; Furniture &bull; Other Consumer Durables]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L69</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L7</code>
+      <description><![CDATA[Industry Studies: Primary Products and Construction]]></description>
+      <classification level="3" language="English">
+        <code>L70</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L71</code>
+        <description><![CDATA[Mining, Extraction, and Refining: Hydrocarbon Fuels]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L72</code>
+        <description><![CDATA[Mining, Extraction, and Refining: Other Nonrenewable Resources]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L73</code>
+        <description><![CDATA[Forest Products]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L74</code>
+        <description><![CDATA[Construction]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L78</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L79</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L8</code>
+      <description><![CDATA[Industry Studies: Services]]></description>
+      <classification level="3" language="English">
+        <code>L80</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L81</code>
+        <description><![CDATA[Retail and Wholesale Trade &bull; e-Commerce]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L82</code>
+        <description><![CDATA[Entertainment &bull; Media]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L83</code>
+        <description><![CDATA[Sports &bull; Gambling &bull; Restaurants &bull; Recreation &bull; Tourism]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L84</code>
+        <description><![CDATA[Personal, Professional, and Business Services]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L85</code>
+        <description><![CDATA[Real Estate Services]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L86</code>
+        <description><![CDATA[Information and Internet Services &bull; Computer Software]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L87</code>
+        <description><![CDATA[Postal and Delivery Services]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L88</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L89</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>L9</code>
+      <description><![CDATA[Industry Studies: Transportation and Utilities]]></description>
+      <classification level="3" language="English">
+        <code>L90</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L91</code>
+        <description><![CDATA[Transportation: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L92</code>
+        <description><![CDATA[Railroads and Other Surface Transportation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L93</code>
+        <description><![CDATA[Air Transportation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L94</code>
+        <description><![CDATA[Electric Utilities]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L95</code>
+        <description><![CDATA[Gas Utilities &bull; Pipelines &bull; Water Utilities]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L96</code>
+        <description><![CDATA[Telecommunications]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L97</code>
+        <description><![CDATA[Utilities: General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L98</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>L99</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>M</code>
+    <description><![CDATA[Business Administration and Business Economics &bull; Marketing &bull; Accounting &bull; Personnel Economics]]></description>
+    <classification level="2" language="English">
+      <code>M0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>M00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>M1</code>
+      <description><![CDATA[Business Administration]]></description>
+      <classification level="3" language="English">
+        <code>M10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M11</code>
+        <description><![CDATA[Production Management]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M12</code>
+        <description><![CDATA[Personnel Management &bull; Executives; Executive Compensation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M13</code>
+        <description><![CDATA[New Firms &bull; Startups]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M14</code>
+        <description><![CDATA[Corporate Culture &bull; Diversity &bull; Social Responsibility]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M15</code>
+        <description><![CDATA[IT Management]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M16</code>
+        <description><![CDATA[International Business Administration]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>M2</code>
+      <description><![CDATA[Business Economics]]></description>
+      <classification level="3" language="English">
+        <code>M20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M21</code>
+        <description><![CDATA[Business Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>M3</code>
+      <description><![CDATA[Marketing and Advertising]]></description>
+      <classification level="3" language="English">
+        <code>M30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M31</code>
+        <description><![CDATA[Marketing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M37</code>
+        <description><![CDATA[Advertising]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M38</code>
+        <description><![CDATA[Government Policy and Regulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>M4</code>
+      <description><![CDATA[Accounting and Auditing]]></description>
+      <classification level="3" language="English">
+        <code>M40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M41</code>
+        <description><![CDATA[Accounting]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M42</code>
+        <description><![CDATA[Auditing]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M48</code>
+        <description><![CDATA[Government Policy and Regulation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>M5</code>
+      <description><![CDATA[Personnel Economics]]></description>
+      <classification level="3" language="English">
+        <code>M50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M51</code>
+        <description><![CDATA[Firm Employment Decisions &bull; Promotions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M52</code>
+        <description><![CDATA[Compensation and Compensation Methods and Their Effects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M53</code>
+        <description><![CDATA[Training]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M54</code>
+        <description><![CDATA[Labor Management]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M55</code>
+        <description><![CDATA[Labor Contracting Devices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>M59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>N</code>
+    <description><![CDATA[Economic History]]></description>
+    <classification level="2" language="English">
+      <code>N0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>N00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N01</code>
+        <description><![CDATA[Development of the Discipline: Historiographical; Sources and Methods]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N1</code>
+      <description><![CDATA[Macroeconomics and Monetary Economics &bull; Industrial Structure &bull; Growth &bull; Fluctuations]]></description>
+      <classification level="3" language="English">
+        <code>N10</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N11</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N12</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N13</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N14</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N15</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N16</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N17</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N2</code>
+      <description><![CDATA[Financial Markets and Institutions]]></description>
+      <classification level="3" language="English">
+        <code>N20</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N21</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N22</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N23</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N24</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N25</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N26</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N27</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N3</code>
+      <description><![CDATA[Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy]]></description>
+      <classification level="3" language="English">
+        <code>N30</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N31</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N32</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913-]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N33</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N34</code>
+        <description><![CDATA[Europe: 1913-]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N35</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N36</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N37</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N4</code>
+      <description><![CDATA[Government, War, Law, International Relations, and Regulation]]></description>
+      <classification level="3" language="English">
+        <code>N40</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N41</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N42</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N43</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N44</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N45</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N46</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N47</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N5</code>
+      <description><![CDATA[Agriculture, Natural Resources, Environment, and Extractive Industries]]></description>
+      <classification level="3" language="English">
+        <code>N50</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N51</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N52</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N53</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N54</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N55</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N56</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N57</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N6</code>
+      <description><![CDATA[Manufacturing and Construction]]></description>
+      <classification level="3" language="English">
+        <code>N60</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N61</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N62</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N63</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N64</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N65</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N66</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N67</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N7</code>
+      <description><![CDATA[Transport, Trade, Energy, Technology, and Other Services]]></description>
+      <classification level="3" language="English">
+        <code>N70</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N71</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N72</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N73</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N74</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N75</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N76</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N77</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N8</code>
+      <description><![CDATA[Micro-Business History]]></description>
+      <classification level="3" language="English">
+        <code>N80</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N81</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N82</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N83</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N84</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N85</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N86</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N87</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>N9</code>
+      <description><![CDATA[Regional and Urban History]]></description>
+      <classification level="3" language="English">
+        <code>N90</code>
+        <description><![CDATA[General, International, or Comparative]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N91</code>
+        <description><![CDATA[U.S. &bull; Canada: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N92</code>
+        <description><![CDATA[U.S. &bull; Canada: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N93</code>
+        <description><![CDATA[Europe: Pre-1913]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N94</code>
+        <description><![CDATA[Europe: 1913&ndash;]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N95</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N96</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>N97</code>
+        <description><![CDATA[Africa &bull; Oceania]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>O</code>
+    <description><![CDATA[Economic Development, Innovation, Technological Change, and Growth]]></description>
+    <classification level="2" language="English">
+      <code>O1</code>
+      <description><![CDATA[Economic Development]]></description>
+      <classification level="3" language="English">
+        <code>O10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O11</code>
+        <description><![CDATA[Macroeconomic Analyses of Economic Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O12</code>
+        <description><![CDATA[Microeconomic Analyses of Economic Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O13</code>
+        <description><![CDATA[Agriculture &bull; Natural Resources &bull; Energy &bull; Environment &bull; Other Primary Products]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O14</code>
+        <description><![CDATA[Industrialization &bull; Manufacturing and Service Industries &bull; Choice of Technology]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O15</code>
+        <description><![CDATA[Human Resources &bull; Human Development &bull; Income Distribution &bull; Migration]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O16</code>
+        <description><![CDATA[Financial Markets &bull; Saving and Capital Investment &bull; Corporate Finance and Governance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O17</code>
+        <description><![CDATA[Formal and Informal Sectors &bull; Shadow Economy &bull; Institutional Arrangements]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O18</code>
+        <description><![CDATA[Urban, Rural, Regional, and Transportation Analysis &bull; Housing &bull; Infrastructure]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O19</code>
+        <description><![CDATA[International Linkages to Development &bull; Role of International Organizations]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>O2</code>
+      <description><![CDATA[Development Planning and Policy]]></description>
+      <classification level="3" language="English">
+        <code>O20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O21</code>
+        <description><![CDATA[Planning Models &bull; Planning Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O22</code>
+        <description><![CDATA[Project Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O23</code>
+        <description><![CDATA[Fiscal and Monetary Policy in Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O24</code>
+        <description><![CDATA[Trade Policy &bull; Factor Movement Policy &bull; Foreign Exchange Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O25</code>
+        <description><![CDATA[Industrial Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>O3</code>
+      <description><![CDATA[Innovation &bull; Research and Development &bull; Technological Change &bull; Intellectual Property Rights]]></description>
+      <classification level="3" language="English">
+        <code>O30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O31</code>
+        <description><![CDATA[Innovation and Invention: Processes and Incentives]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O32</code>
+        <description><![CDATA[Management of Technological Innovation and R&D]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O33</code>
+        <description><![CDATA[Technological Change: Choices and Consequences &bull; Diffusion Processes]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O34</code>
+        <description><![CDATA[Intellectual Property and Intellectual Capital]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O35</code>
+        <description><![CDATA[Social Innovation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O36</code>
+        <description><![CDATA[Open Innovation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O38</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>O4</code>
+      <description><![CDATA[Economic Growth and Aggregate Productivity]]></description>
+      <classification level="3" language="English">
+        <code>O40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O41</code>
+        <description><![CDATA[One, Two, and Multisector Growth Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O42</code>
+        <description><![CDATA[Monetary Growth Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O43</code>
+        <description><![CDATA[Institutions and Growth]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O44</code>
+        <description><![CDATA[Environment and Growth]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O47</code>
+        <description><![CDATA[Empirical Studies of Economic Growth &bull; Aggregate Productivity &bull; Cross-Country Output Convergence]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>O5</code>
+      <description><![CDATA[Economywide Country Studies]]></description>
+      <classification level="3" language="English">
+        <code>O50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O51</code>
+        <description><![CDATA[U.S. &bull; Canada]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O52</code>
+        <description><![CDATA[Europe]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O53</code>
+        <description><![CDATA[Asia including Middle East]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O54</code>
+        <description><![CDATA[Latin America &bull; Caribbean]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O55</code>
+        <description><![CDATA[Africa]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O56</code>
+        <description><![CDATA[Oceania]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>O57</code>
+        <description><![CDATA[Comparative Studies of Countries]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>P</code>
+    <description><![CDATA[Political Economy and Comparative Economic Systems]]></description>
+    <classification level="2" language="English">
+      <code>P0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>P00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>P1</code>
+      <description><![CDATA[Capitalist Economies]]></description>
+      <classification level="3" language="English">
+        <code>P10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P11</code>
+        <description><![CDATA[Planning, Coordination, and Reform]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P12</code>
+        <description><![CDATA[Capitalist Enterprises]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P13</code>
+        <description><![CDATA[Cooperative Enterprises]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P14</code>
+        <description><![CDATA[Property Rights]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P16</code>
+        <description><![CDATA[Capitalist Institutions &bull; Welfare State]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P17</code>
+        <description><![CDATA[Performance and Prospects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P18</code>
+        <description><![CDATA[Energy &bull; Environment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>P2</code>
+      <description><![CDATA[Socialist and Transition Economies]]></description>
+      <classification level="3" language="English">
+        <code>P20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P21</code>
+        <description><![CDATA[Planning, Coordination, and Reform]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P22</code>
+        <description><![CDATA[Prices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P23</code>
+        <description><![CDATA[Factor and Product Markets &bull; Industry Studies &bull; Population]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P24</code>
+        <description><![CDATA[National Income, Product, and Expenditure &bull; Money &bull; Inflation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P25</code>
+        <description><![CDATA[Urban, Rural, and Regional Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P26</code>
+        <description><![CDATA[Property Rights]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P27</code>
+        <description><![CDATA[Performance and Prospects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P28</code>
+        <description><![CDATA[Natural Resources &bull; Energy &bull; Environment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>P3</code>
+      <description><![CDATA[Socialist Institutions and Their Transitions]]></description>
+      <classification level="3" language="English">
+        <code>P30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P31</code>
+        <description><![CDATA[Socialist Enterprises and Their Transitions]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P32</code>
+        <description><![CDATA[Collectives &bull; Communes &bull; Agriculture]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P33</code>
+        <description><![CDATA[International Trade, Finance, Investment, Relations, and Aid]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P34</code>
+        <description><![CDATA[Financial Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P35</code>
+        <description><![CDATA[Public Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P36</code>
+        <description><![CDATA[Consumer Economics &bull; Health &bull; Education and Training &bull; Welfare, Income, Wealth, and Poverty]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P37</code>
+        <description><![CDATA[Legal Institutions &bull; Illegal Behavior]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>P4</code>
+      <description><![CDATA[Other Economic Systems]]></description>
+      <classification level="3" language="English">
+        <code>P40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P41</code>
+        <description><![CDATA[Planning, Coordination, and Reform]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P42</code>
+        <description><![CDATA[Productive Enterprises &bull; Factor and Product Markets &bull; Prices &bull; Population]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P43</code>
+        <description><![CDATA[Public Economics &bull; Financial Economics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P44</code>
+        <description><![CDATA[National Income, Product, and Expenditure &bull; Money &bull; Inflation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P45</code>
+        <description><![CDATA[International Trade, Finance, Investment, and Aid]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P46</code>
+        <description><![CDATA[Consumer Economics &bull; Health &bull; Education and Training &bull; Welfare, Income, Wealth, and Poverty]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P47</code>
+        <description><![CDATA[Performance and Prospects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P48</code>
+        <description><![CDATA[Legal Institutions &bull; Property Rights &bull; Natural Resources &bull; Energy &bull; Environment &bull; Regional Studies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>P5</code>
+      <description><![CDATA[Comparative Economic Systems]]></description>
+      <classification level="3" language="English">
+        <code>P50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P51</code>
+        <description><![CDATA[Comparative Analysis of Economic Systems]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P52</code>
+        <description><![CDATA[Comparative Studies of Particular Economies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>P59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>Q</code>
+    <description><![CDATA[Agricultural and Natural Resource Economics &bull; Environmental and Ecological Economics]]></description>
+    <classification level="2" language="English">
+      <code>Q0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>Q00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q01</code>
+        <description><![CDATA[Sustainable Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q02</code>
+        <description><![CDATA[Commodity Markets]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Q1</code>
+      <description><![CDATA[Agriculture]]></description>
+      <classification level="3" language="English">
+        <code>Q10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q11</code>
+        <description><![CDATA[Aggregate Supply and Demand Analysis &bull; Prices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q12</code>
+        <description><![CDATA[Micro Analysis of Farm Firms, Farm Households, and Farm Input Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q13</code>
+        <description><![CDATA[Agricultural Markets and Marketing &bull; Cooperatives &bull; Agribusiness]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q14</code>
+        <description><![CDATA[Agricultural Finance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q15</code>
+        <description><![CDATA[Land Ownership and Tenure &bull; Land Reform &bull; Land Use &bull; Irrigation &bull; Agriculture and Environment]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q16</code>
+        <description><![CDATA[R&D &bull; Agricultural Technology &bull; Biofuels &bull; Agricultural Extension Services]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q17</code>
+        <description><![CDATA[Agriculture in International Trade]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q18</code>
+        <description><![CDATA[Agricultural Policy &bull; Food Policy &bull; Animal Welfare Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Q2</code>
+      <description><![CDATA[Renewable Resources and Conservation]]></description>
+      <classification level="3" language="English">
+        <code>Q20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q21</code>
+        <description><![CDATA[Demand and Supply &bull; Prices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q22</code>
+        <description><![CDATA[Fishery &bull; Aquaculture]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q23</code>
+        <description><![CDATA[Forestry]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q24</code>
+        <description><![CDATA[Land]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q25</code>
+        <description><![CDATA[Water]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q26</code>
+        <description><![CDATA[Recreational Aspects of Natural Resources]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q27</code>
+        <description><![CDATA[Issues in International Trade]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q28</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Q3</code>
+      <description><![CDATA[Nonrenewable Resources and Conservation]]></description>
+      <classification level="3" language="English">
+        <code>Q30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q31</code>
+        <description><![CDATA[Demand and Supply &bull; Prices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q32</code>
+        <description><![CDATA[Exhaustible Resources and Economic Development]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q33</code>
+        <description><![CDATA[Resource Booms]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q34</code>
+        <description><![CDATA[Natural Resources and Domestic and International Conflicts]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q35</code>
+        <description><![CDATA[Hydrocarbon Resources]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q37</code>
+        <description><![CDATA[Issues in International Trade]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q38</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Q4</code>
+      <description><![CDATA[Energy]]></description>
+      <classification level="3" language="English">
+        <code>Q40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q41</code>
+        <description><![CDATA[Demand and Supply &bull; Prices]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q42</code>
+        <description><![CDATA[Alternative Energy Sources]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q43</code>
+        <description><![CDATA[Energy and the Macroeconomy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q47</code>
+        <description><![CDATA[Energy Forecasting]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q48</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Q5</code>
+      <description><![CDATA[Environmental Economics]]></description>
+      <classification level="3" language="English">
+        <code>Q50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q51</code>
+        <description><![CDATA[Valuation of Environmental Effects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q52</code>
+        <description><![CDATA[Pollution Control Adoption and Costs &bull; Distributional Effects &bull; Employment Effects]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q53</code>
+        <description><![CDATA[Air Pollution &bull; Water Pollution &bull; Noise &bull; Hazardous Waste &bull; Solid Waste &bull; Recycling]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q54</code>
+        <description><![CDATA[Climate &bull; Natural Disasters and Their Management &bull; Global Warming]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q55</code>
+        <description><![CDATA[Technological Innovation]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q56</code>
+        <description><![CDATA[Environment and Development &bull; Environment and Trade &bull; Sustainability &bull; Environmental Accounts and Accounting &bull; Environmental Equity &bull; Population Growth]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q57</code>
+        <description><![CDATA[Ecological Economics: Ecosystem Services &bull; Biodiversity Conservation &bull; Bioeconomics &bull; Industrial Ecology]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q58</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Q59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>R</code>
+    <description><![CDATA[Urban, Rural, Regional, Real Estate, and Transportation Economics]]></description>
+    <classification level="2" language="English">
+      <code>R0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>R00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>R1</code>
+      <description><![CDATA[General Regional Economics]]></description>
+      <classification level="3" language="English">
+        <code>R10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R11</code>
+        <description><![CDATA[Regional Economic Activity: Growth, Development, Environmental Issues, and Changes]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R12</code>
+        <description><![CDATA[Size and Spatial Distributions of Regional Economic Activity]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R13</code>
+        <description><![CDATA[General Equilibrium and Welfare Economic Analysis of Regional Economies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R14</code>
+        <description><![CDATA[Land Use Patterns]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R15</code>
+        <description><![CDATA[Econometric and Input&ndash;Output Models &bull; Other Models]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>R2</code>
+      <description><![CDATA[Household Analysis]]></description>
+      <classification level="3" language="English">
+        <code>R20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R21</code>
+        <description><![CDATA[Housing Demand]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R22</code>
+        <description><![CDATA[Other Demand]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R23</code>
+        <description><![CDATA[Regional Migration &bull; Regional Labor Markets &bull; Population &bull; Neighborhood Characteristics]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R28</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>R3</code>
+      <description><![CDATA[Real Estate Markets, Spatial Production Analysis, and Firm Location]]></description>
+      <classification level="3" language="English">
+        <code>R30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R31</code>
+        <description><![CDATA[Housing Supply and Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R32</code>
+        <description><![CDATA[Other Spatial Production and Pricing Analysis]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R33</code>
+        <description><![CDATA[Nonagricultural and Nonresidential Real Estate Markets]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R38</code>
+        <description><![CDATA[Government Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>R4</code>
+      <description><![CDATA[Transportation Economics]]></description>
+      <classification level="3" language="English">
+        <code>R40</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R41</code>
+        <description><![CDATA[Transportation: Demand, Supply, and Congestion &bull; Travel Time &bull; Safety and Accidents &bull; Transportation Noise]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R42</code>
+        <description><![CDATA[Government and Private Investment Analysis &bull; Road Maintenance &bull; Transportation Planning]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R48</code>
+        <description><![CDATA[Government Pricing and Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R49</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>R5</code>
+      <description><![CDATA[Regional Government Analysis]]></description>
+      <classification level="3" language="English">
+        <code>R50</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R51</code>
+        <description><![CDATA[Finance in Urban and Rural Economies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R52</code>
+        <description><![CDATA[Land Use and Other Regulations]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R53</code>
+        <description><![CDATA[Public Facility Location Analysis &bull; Public Investment and Capital Stock]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R58</code>
+        <description><![CDATA[Regional Development Planning and Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>R59</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>Y</code>
+    <description><![CDATA[Miscellaneous Categories]]></description>
+    <classification level="2" language="English">
+      <code>Y1</code>
+      <description><![CDATA[Data: Tables and Charts]]></description>
+      <classification level="3" language="English">
+        <code>Y10</code>
+        <description><![CDATA[Data: Tables and Charts ]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y2</code>
+      <description><![CDATA[Introductory Material]]></description>
+      <classification level="3" language="English">
+        <code>Y20</code>
+        <description><![CDATA[Introductory Material]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y3</code>
+      <description><![CDATA[Book Reviews (unclassified)]]></description>
+      <classification level="3" language="English">
+        <code>Y30</code>
+        <description><![CDATA[Book Reviews (unclassified) ]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y4</code>
+      <description><![CDATA[Dissertations (unclassified)]]></description>
+      <classification level="3" language="English">
+        <code>Y40</code>
+        <description><![CDATA[Dissertations (unclassified)]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y5</code>
+      <description><![CDATA[Further Reading (unclassified)]]></description>
+      <classification level="3" language="English">
+        <code>Y50</code>
+        <description><![CDATA[Further Reading (unclassified)]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y6</code>
+      <description><![CDATA[Excerpts]]></description>
+      <classification level="3" language="English">
+        <code>Y60</code>
+        <description><![CDATA[Excerpts]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y7</code>
+      <description><![CDATA[No Author General Discussions]]></description>
+      <classification level="3" language="English">
+        <code>Y70</code>
+        <description><![CDATA[No Author General Discussions]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y8</code>
+      <description><![CDATA[Related Disciplines]]></description>
+      <classification level="3" language="English">
+        <code>Y80</code>
+        <description><![CDATA[Related Disciplines]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Y9</code>
+      <description><![CDATA[Other]]></description>
+      <classification level="3" language="English">
+        <code>Y90</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Y91</code>
+        <description><![CDATA[Pictures and Maps]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Y92</code>
+        <description><![CDATA[Novels, Self-Help Books, etc.]]></description>
+      </classification>
+    </classification>
+  </classification>
+  <classification level="1" language="English">
+    <code>Z</code>
+    <description><![CDATA[Other Special Topics]]></description>
+    <classification level="2" language="English">
+      <code>Z0</code>
+      <description><![CDATA[General]]></description>
+      <classification level="3" language="English">
+        <code>Z00</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Z1</code>
+      <description><![CDATA[Cultural Economics &bull; Economic Sociology &bull; Economic Anthropology]]></description>
+      <classification level="3" language="English">
+        <code>Z10</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z11</code>
+        <description><![CDATA[Economics of the Arts and Literature]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z12</code>
+        <description><![CDATA[Religion]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z13</code>
+        <description><![CDATA[Economic Sociology &bull; Economic Anthropology &bull; Language &bull; Social and Economic Stratification ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z18</code>
+        <description><![CDATA[Public Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z19</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Z2</code>
+      <description><![CDATA[Sports Economics]]></description>
+      <classification level="3" language="English">
+        <code>Z20</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z21</code>
+        <description><![CDATA[Industry Studies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z22</code>
+        <description><![CDATA[Labor Issues]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z23</code>
+        <description><![CDATA[Finance]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z28</code>
+        <description><![CDATA[Policy]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z29</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+    <classification level="2" language="English">
+      <code>Z3</code>
+      <description><![CDATA[Tourism Economics]]></description>
+      <classification level="3" language="English">
+        <code>Z30</code>
+        <description><![CDATA[General]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z31</code>
+        <description><![CDATA[Industry Studies]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z32</code>
+        <description><![CDATA[Tourism and Development ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z33</code>
+        <description><![CDATA[Marketing and Finance ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z38</code>
+        <description><![CDATA[Policy ]]></description>
+      </classification>
+      <classification level="3" language="English">
+        <code>Z39</code>
+        <description><![CDATA[Other]]></description>
+      </classification>
+    </classification>
+  </classification>
+</data>
