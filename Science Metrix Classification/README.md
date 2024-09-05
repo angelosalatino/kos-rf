@@ -1,0 +1,3 @@
+# Science Metrix Classification
+
+This classification categorises scientific journals and articles by S&T domain, field, and subfield. They developed the first iteration in 2010 and based it on best-practice taxonomies. They assigned individual journals to single categories via an approach combining algorithmic methods and expert judgement. The classification is now well established and used for projects investigating a variety of scientific domains and geographic regions. In 2019, they further developed the journal-based classification into article-level and hybrid versions. 
