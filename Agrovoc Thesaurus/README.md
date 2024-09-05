@@ -1,6 +1,6 @@
 # Agrovoc Thesaurus
 
-The Agrovoc Thesaurus is an ontology in the field of *Agriculture*. Agrovoc was initially published at the beginning of the 1980s, by the Food and Agriculture Organisation (FAO) of the United Nations (UN), to index publications in agricultural science and technology. Nowadays, Agrovoc is a worldwide collaborative effort aiming at expanding its coverage, as well as adding or revising translations of concepts. Indeed, Agrovoc is one the few multilingual resources in this space, with subjects translated in up to 41 languages, such as Arabic, French, Italian, German, Japanese, Spanish, and many others.
+The Agrovoc Thesaurus is an ontology in the field of *Agriculture*. Agrovoc was initially published at the beginning of the 1980s, by the Food and Agriculture Organisation (FAO) of the United Nations (UN), to index publications in agricultural science and technology. Nowadays, Agrovoc is a worldwide collaborative effort aiming at expanding its coverage, as well as adding or revising translations of concepts. Indeed, Agrovoc is one the few multilingual resources in this space, with subjects translated in up to 42 languages, such as Arabic, French, Italian, German, Japanese, Spanish, and many others.
 Thanks to such a large-scale and collaborative effort, Agrovoc features monthly releases. 
 
 
