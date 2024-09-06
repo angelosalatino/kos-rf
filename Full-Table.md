@@ -1,16 +1,14 @@
 # Full Table
 
-In this file, we show a table describing all single-field and multiple-field classification schemes according to the whole set of features we analysed. For the sake of space, we have reduced the size of some columns (Type of scheme, Kind of hierarchy, Related Terms, Generation) and shortened their values to a single character. Here follows the association between the single letters and their meaning.
+In this file, we show a table describing all single-field and multiple-field classification schemes according to the whole set of features we analysed. For the sake of space, we have reduced the size of some columns (Type of scheme, Kind of hierarchy, Related Terms) and shortened their values to a single character. Here follows the association between the single letters and their meaning.
 
--   **Type of scheme**: C (*Controlled Vocabulary*), T (*Taxonomy*), U
-    (*Thesaurus*), O (*Ontology*)
+-   **Type of scheme**: L (_Term **L**ist_), T (_**T**axonomy_), U
+    (_Thesa**U**rus_), O (_**O**ntology_)
 
 -   **Kind of hierarchy**: M (*mono*), P (*poly*)
 
 -   **Related Terms**: Y (*yes*), N (*no*)
 
--   **Generation**: M (*Manual*), A (*Automatic*), S (*Semi-automatic*),
-    C (*Community-effort*)
 
 
 
