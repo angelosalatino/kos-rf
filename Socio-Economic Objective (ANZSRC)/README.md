@@ -1,0 +1,10 @@
+# Socio-Economic Objective
+
+The Socio-Economic Objective (SEO) is a KOS that allows to classify R&D activities according to their purpose. For instance, particular project outcomes, processes, techniques can be categorised based on their objectives, whether is for health, education, environment, or other domains. Together with *Fields of Research* and *Type of Activity*, SEO is part of the Australian and New Zealand Standard Research Classification. The latest version was released in June 2020.
+
+This taxonomy consists of 1,974 concepts distributed over a monohierarchic structure of three levels, namely divisions, groups, and objectives. At the top level we can find 19 divisions, codified with a two-digit number:
+*Animal Production and Animal Primary Products* *10*, *Commercial Services and Tourism* *11*, *Construction* *12*, *Culture and Society* *13*, *Defence* *14*, *Economic Framework* *15*, *Education and Training* *16*, *Energy* *17*, *Environmental Management* *18*, *Environmental Policy, Climate Change and Natural Hazards* *19*, *Health* *20*, *Indigenous* *21*, *Information and Communication Services* *22*, *Law, Politics and Community Services* *23*, *Manufacturing* *24*, *Mineral Resources (Excl. Energy Resources)* *25*, *Plant Production and Plant Primary Products* *26*, *Transport* *27*, *Expanding Knowledge* *28*.
+
+%*Defence* *A*, *Economic Development* *B*, *Society* *C*, *Environment* *D*, and *Expanding Knowledge* *E*. 
+These divisions are further refined in 275 groups and 1,680 objectives, respectively coded with four and six digits. For instance, *Veterinary Pharmaceutical Products* *2416*, and *Veterinary Pharmaceutical Treatments* *241603*.
+This taxonomy can be downloaded as an Excel file from the Australian Bureau of Statistics website, under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
