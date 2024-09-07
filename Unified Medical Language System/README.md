@@ -1,6 +1,6 @@
 # Unified Medical Language System (UMLS)
 
-The [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls) is a collection of vocabularies in the fields of \topic{Biomedicine*. It is developed and maintained by the National Library of Medicine (NLM) of the United States and it is intended for developers to design new software systems in this field, such as retrieval of patients records and question-answering systems, and others.
+The [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls) is a collection of vocabularies in the fields of *Biomedicine*. It is developed and maintained by the National Library of Medicine (NLM) of the United States and it is intended for developers to design new software systems in this field, such as retrieval of patients records and question-answering systems, and others.
 
 Currently, UMLS features more than 200 source vocabularies including *MeSH*, *Clinical Proteomic Tumor Analysis Consortium* (CPTAC), *International Classification of Primary Care* (ICPC), *Logical Observation Identifiers Names and Codes terminology* (LOINC), *RxNorm*, *SNOMED Clinical Terminology*, *Anatomical Therapeutic Chemical Classification System*, and many others. UMLS it is also multilingual, because for a number of vocabularies, it integrates their different languages. For instance, in UMLS we can find 16 different versions of *MeSH*: English, Italian, Japanese, Spanish, French, German, Norwegian, Polish, Portuguese and other several languages.
 
