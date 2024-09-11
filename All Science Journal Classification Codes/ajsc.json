@@ -1,0 +1,1348 @@
+{
+  "Multidisciplinary": [
+    {
+      "code": "1000",
+      "field": "Multidisciplinary"
+    }
+  ],
+  "Life Sciences": [
+    {
+      "code": "1100",
+      "field": "General Agricultural and Biological Sciences"
+    },
+    {
+      "code": "1101",
+      "field": "Agricultural and Biological Sciences (miscellaneous)"
+    },
+    {
+      "code": "1102",
+      "field": "Agronomy and Crop Science"
+    },
+    {
+      "code": "1103",
+      "field": "Animal Science and Zoology"
+    },
+    {
+      "code": "1104",
+      "field": "Aquatic Science"
+    },
+    {
+      "code": "1105",
+      "field": "Ecology, Evolution, Behavior and Systematics"
+    },
+    {
+      "code": "1106",
+      "field": "Food Science"
+    },
+    {
+      "code": "1107",
+      "field": "Forestry"
+    },
+    {
+      "code": "1108",
+      "field": "Horticulture"
+    },
+    {
+      "code": "1109",
+      "field": "Insect Science"
+    },
+    {
+      "code": "1110",
+      "field": "Plant Science"
+    },
+    {
+      "code": "1111",
+      "field": "Soil Science"
+    },
+    {
+      "code": "1300",
+      "field": "General Biochemistry, Genetics and Molecular Biology"
+    },
+    {
+      "code": "1301",
+      "field": "Biochemistry, Genetics and Molecular Biology (miscellaneous)"
+    },
+    {
+      "code": "1302",
+      "field": "Aging"
+    },
+    {
+      "code": "1303",
+      "field": "Biochemistry"
+    },
+    {
+      "code": "1304",
+      "field": "Biophysics"
+    },
+    {
+      "code": "1305",
+      "field": "Biotechnology"
+    },
+    {
+      "code": "1306",
+      "field": "Cancer Research"
+    },
+    {
+      "code": "1307",
+      "field": "Cell Biology"
+    },
+    {
+      "code": "1308",
+      "field": "Clinical Biochemistry"
+    },
+    {
+      "code": "1309",
+      "field": "Developmental Biology"
+    },
+    {
+      "code": "1310",
+      "field": "Endocrinology"
+    },
+    {
+      "code": "1311",
+      "field": "Genetics"
+    },
+    {
+      "code": "1312",
+      "field": "Molecular Biology"
+    },
+    {
+      "code": "1313",
+      "field": "Molecular Medicine"
+    },
+    {
+      "code": "1314",
+      "field": "Physiology"
+    },
+    {
+      "code": "1315",
+      "field": "Structural Biology"
+    },
+    {
+      "code": "2400",
+      "field": "General Immunology and Microbiology"
+    },
+    {
+      "code": "2401",
+      "field": "Immunology and Microbiology (miscellaneous)"
+    },
+    {
+      "code": "2402",
+      "field": "Applied Microbiology and Biotechnology"
+    },
+    {
+      "code": "2403",
+      "field": "Immunology"
+    },
+    {
+      "code": "2404",
+      "field": "Microbiology"
+    },
+    {
+      "code": "2405",
+      "field": "Parasitology"
+    },
+    {
+      "code": "2406",
+      "field": "Virology"
+    },
+    {
+      "code": "2800",
+      "field": "General Neuroscience"
+    },
+    {
+      "code": "2801",
+      "field": "Neuroscience (miscellaneous)"
+    },
+    {
+      "code": "2802",
+      "field": "Behavioral Neuroscience"
+    },
+    {
+      "code": "2803",
+      "field": "Biological Psychiatry"
+    },
+    {
+      "code": "2804",
+      "field": "Cellular and Molecular Neuroscience"
+    },
+    {
+      "code": "2805",
+      "field": "Cognitive Neuroscience"
+    },
+    {
+      "code": "2806",
+      "field": "Developmental Neuroscience"
+    },
+    {
+      "code": "2807",
+      "field": "Endocrine and Autonomic Systems"
+    },
+    {
+      "code": "2808",
+      "field": "Neurology"
+    },
+    {
+      "code": "2809",
+      "field": "Sensory Systems"
+    },
+    {
+      "code": "3000",
+      "field": "General Pharmacology, Toxicology and Pharmaceutics"
+    },
+    {
+      "code": "3001",
+      "field": "Pharmacology, Toxicology and Pharmaceutics (miscellaneous)"
+    },
+    {
+      "code": "3002",
+      "field": "Drug Discovery"
+    },
+    {
+      "code": "3003",
+      "field": "Pharmaceutical Science"
+    },
+    {
+      "code": "3004",
+      "field": "Pharmacology"
+    },
+    {
+      "code": "3005",
+      "field": "Toxicology"
+    }
+  ],
+  "Social Sciences & Humanities": [
+    {
+      "code": "1200",
+      "field": "General Arts and Humanities"
+    },
+    {
+      "code": "1201",
+      "field": "Arts and Humanities (miscellaneous)"
+    },
+    {
+      "code": "1202",
+      "field": "History"
+    },
+    {
+      "code": "1203",
+      "field": "Language and Linguistics"
+    },
+    {
+      "code": "1204",
+      "field": "Archeology (arts and humanities)"
+    },
+    {
+      "code": "1205",
+      "field": "Classics"
+    },
+    {
+      "code": "1206",
+      "field": "Conservation"
+    },
+    {
+      "code": "1207",
+      "field": "History and Philosophy of Science"
+    },
+    {
+      "code": "1208",
+      "field": "Literature and Literary Theory"
+    },
+    {
+      "code": "1209",
+      "field": "Museology"
+    },
+    {
+      "code": "1210",
+      "field": "Music"
+    },
+    {
+      "code": "1211",
+      "field": "Philosophy"
+    },
+    {
+      "code": "1212",
+      "field": "Religious Studies"
+    },
+    {
+      "code": "1213",
+      "field": "Visual Arts and Performing Arts"
+    },
+    {
+      "code": "1400",
+      "field": "General Business, Management and Accounting"
+    },
+    {
+      "code": "1401",
+      "field": "Business, Management and Accounting (miscellaneous)"
+    },
+    {
+      "code": "1402",
+      "field": "Accounting"
+    },
+    {
+      "code": "1403",
+      "field": "Business and International Management"
+    },
+    {
+      "code": "1404",
+      "field": "Management Information Systems"
+    },
+    {
+      "code": "1405",
+      "field": "Management of Technology and Innovation"
+    },
+    {
+      "code": "1406",
+      "field": "Marketing"
+    },
+    {
+      "code": "1407",
+      "field": "Organizational Behavior and Human Resource Management"
+    },
+    {
+      "code": "1408",
+      "field": "Strategy and Management"
+    },
+    {
+      "code": "1409",
+      "field": "Tourism, Leisure and Hospitality Management"
+    },
+    {
+      "code": "1410",
+      "field": "Industrial Relations"
+    },
+    {
+      "code": "1800",
+      "field": "General Decision Sciences"
+    },
+    {
+      "code": "1801",
+      "field": "Decision Sciences (miscellaneous)"
+    },
+    {
+      "code": "1802",
+      "field": "Information Systems and Management"
+    },
+    {
+      "code": "1803",
+      "field": "Management Science and Operations Research"
+    },
+    {
+      "code": "1804",
+      "field": "Statistics, Probability and Uncertainty"
+    },
+    {
+      "code": "2000",
+      "field": "General Economics, Econometrics and Finance"
+    },
+    {
+      "code": "2001",
+      "field": "Economics, Econometrics and Finance (miscellaneous)"
+    },
+    {
+      "code": "2002",
+      "field": "Economics and Econometrics"
+    },
+    {
+      "code": "2003",
+      "field": "Finance"
+    },
+    {
+      "code": "3200",
+      "field": "General Psychology"
+    },
+    {
+      "code": "3201",
+      "field": "Psychology (miscellaneous)"
+    },
+    {
+      "code": "3202",
+      "field": "Applied Psychology"
+    },
+    {
+      "code": "3203",
+      "field": "Clinical Psychology"
+    },
+    {
+      "code": "3204",
+      "field": "Developmental and Educational Psychology"
+    },
+    {
+      "code": "3205",
+      "field": "Experimental and Cognitive Psychology"
+    },
+    {
+      "code": "3206",
+      "field": "Neuropsychology and Physiological Psychology"
+    },
+    {
+      "code": "3207",
+      "field": "Social Psychology"
+    },
+    {
+      "code": "3300",
+      "field": "General Social Sciences"
+    },
+    {
+      "code": "3301",
+      "field": "Social Sciences (miscellaneous)"
+    },
+    {
+      "code": "3302",
+      "field": "Archeology"
+    },
+    {
+      "code": "3303",
+      "field": "Development"
+    },
+    {
+      "code": "3304",
+      "field": "Education"
+    },
+    {
+      "code": "3305",
+      "field": "Geography, Planning and Development"
+    },
+    {
+      "code": "3306",
+      "field": "Health (social science)"
+    },
+    {
+      "code": "3307",
+      "field": "Human Factors and Ergonomics"
+    },
+    {
+      "code": "3308",
+      "field": "Law"
+    },
+    {
+      "code": "3309",
+      "field": "Library and Information Sciences"
+    },
+    {
+      "code": "3310",
+      "field": "Linguistics and Language"
+    },
+    {
+      "code": "3311",
+      "field": "Safety Research"
+    },
+    {
+      "code": "3312",
+      "field": "Sociology and Political Science"
+    },
+    {
+      "code": "3313",
+      "field": "Transportation"
+    },
+    {
+      "code": "3314",
+      "field": "Anthropology"
+    },
+    {
+      "code": "3315",
+      "field": "Communication"
+    },
+    {
+      "code": "3316",
+      "field": "Cultural Studies"
+    },
+    {
+      "code": "3317",
+      "field": "Demography"
+    },
+    {
+      "code": "3318",
+      "field": "Gender Studies"
+    },
+    {
+      "code": "3319",
+      "field": "Life-span and Life-course Studies"
+    },
+    {
+      "code": "3320",
+      "field": "Political Science and International Relations"
+    },
+    {
+      "code": "3321",
+      "field": "Public Administration"
+    },
+    {
+      "code": "3322",
+      "field": "Urban Studies"
+    }
+  ],
+  "Physical Sciences": [
+    {
+      "code": "1500",
+      "field": "General Chemical Engineering"
+    },
+    {
+      "code": "1501",
+      "field": "Chemical Engineering (miscellaneous)"
+    },
+    {
+      "code": "1502",
+      "field": "Bioengineering"
+    },
+    {
+      "code": "1503",
+      "field": "Catalysis"
+    },
+    {
+      "code": "1504",
+      "field": "Chemical Health and Safety"
+    },
+    {
+      "code": "1505",
+      "field": "Colloid and Surface Chemistry"
+    },
+    {
+      "code": "1506",
+      "field": "Filtration and Separation"
+    },
+    {
+      "code": "1507",
+      "field": "Fluid Flow and Transfer Processes"
+    },
+    {
+      "code": "1508",
+      "field": "Process Chemistry and Technology"
+    },
+    {
+      "code": "1600",
+      "field": "General Chemistry"
+    },
+    {
+      "code": "1601",
+      "field": "Chemistry (miscellaneous)"
+    },
+    {
+      "code": "1602",
+      "field": "Analytical Chemistry"
+    },
+    {
+      "code": "1603",
+      "field": "Electrochemistry"
+    },
+    {
+      "code": "1604",
+      "field": "Inorganic Chemistry"
+    },
+    {
+      "code": "1605",
+      "field": "Organic Chemistry"
+    },
+    {
+      "code": "1606",
+      "field": "Physical and Theoretical Chemistry"
+    },
+    {
+      "code": "1607",
+      "field": "Spectroscopy"
+    },
+    {
+      "code": "1700",
+      "field": "General Computer Science"
+    },
+    {
+      "code": "1701",
+      "field": "Computer Science (miscellaneous)"
+    },
+    {
+      "code": "1702",
+      "field": "Artificial Intelligence"
+    },
+    {
+      "code": "1703",
+      "field": "Computational Theory and Mathematics"
+    },
+    {
+      "code": "1704",
+      "field": "Computer Graphics and Computer-Aided Design"
+    },
+    {
+      "code": "1705",
+      "field": "Computer Networks and Communications"
+    },
+    {
+      "code": "1706",
+      "field": "Computer Science Applications"
+    },
+    {
+      "code": "1707",
+      "field": "Computer Vision and Pattern Recognition"
+    },
+    {
+      "code": "1708",
+      "field": "Hardware and Architecture"
+    },
+    {
+      "code": "1709",
+      "field": "Human-Computer Interaction"
+    },
+    {
+      "code": "1710",
+      "field": "Information Systems"
+    },
+    {
+      "code": "1711",
+      "field": "Signal Processing"
+    },
+    {
+      "code": "1712",
+      "field": "Software"
+    },
+    {
+      "code": "1900",
+      "field": "General Earth and Planetary Sciences"
+    },
+    {
+      "code": "1901",
+      "field": "Earth and Planetary Sciences (miscellaneous)"
+    },
+    {
+      "code": "1902",
+      "field": "Atmospheric Science"
+    },
+    {
+      "code": "1903",
+      "field": "Computers in Earth Sciences"
+    },
+    {
+      "code": "1904",
+      "field": "Earth-Surface Processes"
+    },
+    {
+      "code": "1905",
+      "field": "Economic Geology"
+    },
+    {
+      "code": "1906",
+      "field": "Geochemistry and Petrology"
+    },
+    {
+      "code": "1907",
+      "field": "Geology"
+    },
+    {
+      "code": "1908",
+      "field": "Geophysics"
+    },
+    {
+      "code": "1909",
+      "field": "Geotechnical Engineering and Engineering Geology"
+    },
+    {
+      "code": "1910",
+      "field": "Oceanography"
+    },
+    {
+      "code": "1911",
+      "field": "Paleontology"
+    },
+    {
+      "code": "1912",
+      "field": "Space and Planetary Science"
+    },
+    {
+      "code": "1913",
+      "field": "Stratigraphy"
+    },
+    {
+      "code": "2100",
+      "field": "General Energy"
+    },
+    {
+      "code": "2101",
+      "field": "Energy (miscellaneous)"
+    },
+    {
+      "code": "2102",
+      "field": "Energy Engineering and Power Technology"
+    },
+    {
+      "code": "2103",
+      "field": "Fuel Technology"
+    },
+    {
+      "code": "2104",
+      "field": "Nuclear Energy and Engineering"
+    },
+    {
+      "code": "2105",
+      "field": "Renewable Energy, Sustainability and the Environment"
+    },
+    {
+      "code": "2200",
+      "field": "General Engineering"
+    },
+    {
+      "code": "2201",
+      "field": "Engineering (miscellaneous)"
+    },
+    {
+      "code": "2202",
+      "field": "Aerospace Engineering"
+    },
+    {
+      "code": "2203",
+      "field": "Automotive Engineering"
+    },
+    {
+      "code": "2204",
+      "field": "Biomedical Engineering"
+    },
+    {
+      "code": "2205",
+      "field": "Civil and Structural Engineering"
+    },
+    {
+      "code": "2206",
+      "field": "Computational Mechanics"
+    },
+    {
+      "code": "2207",
+      "field": "Control and Systems Engineering"
+    },
+    {
+      "code": "2208",
+      "field": "Electrical and Electronic Engineering"
+    },
+    {
+      "code": "2209",
+      "field": "Industrial and Manufacturing Engineering"
+    },
+    {
+      "code": "2210",
+      "field": "Mechanical Engineering"
+    },
+    {
+      "code": "2211",
+      "field": "Mechanics of Materials"
+    },
+    {
+      "code": "2212",
+      "field": "Ocean Engineering"
+    },
+    {
+      "code": "2213",
+      "field": "Safety, Risk, Reliability and Quality"
+    },
+    {
+      "code": "2214",
+      "field": "Media Technology"
+    },
+    {
+      "code": "2215",
+      "field": "Building and Construction"
+    },
+    {
+      "code": "2216",
+      "field": "Architecture"
+    },
+    {
+      "code": "2300",
+      "field": "General Environmental Science"
+    },
+    {
+      "code": "2301",
+      "field": "Environmental Science (miscellaneous)"
+    },
+    {
+      "code": "2302",
+      "field": "Ecological Modeling"
+    },
+    {
+      "code": "2303",
+      "field": "Ecology"
+    },
+    {
+      "code": "2304",
+      "field": "Environmental Chemistry"
+    },
+    {
+      "code": "2305",
+      "field": "Environmental Engineering"
+    },
+    {
+      "code": "2306",
+      "field": "Global and Planetary Change"
+    },
+    {
+      "code": "2307",
+      "field": "Health, Toxicology and Mutagenesis"
+    },
+    {
+      "code": "2308",
+      "field": "Management, Monitoring, Policy and Law"
+    },
+    {
+      "code": "2309",
+      "field": "Nature and Landscape Conservation"
+    },
+    {
+      "code": "2310",
+      "field": "Pollution"
+    },
+    {
+      "code": "2311",
+      "field": "Waste Management and Disposal"
+    },
+    {
+      "code": "2312",
+      "field": "Water Science and Technology"
+    },
+    {
+      "code": "2500",
+      "field": "General Materials Science"
+    },
+    {
+      "code": "2501",
+      "field": "Materials Science (miscellaneous)"
+    },
+    {
+      "code": "2502",
+      "field": "Biomaterials"
+    },
+    {
+      "code": "2503",
+      "field": "Ceramics and Composites"
+    },
+    {
+      "code": "2504",
+      "field": "Electronic, Optical and Magnetic Materials"
+    },
+    {
+      "code": "2505",
+      "field": "Materials Chemistry"
+    },
+    {
+      "code": "2506",
+      "field": "Metals and Alloys"
+    },
+    {
+      "code": "2507",
+      "field": "Polymers and Plastics"
+    },
+    {
+      "code": "2508",
+      "field": "Surfaces, Coatings and Films"
+    },
+    {
+      "code": "2600",
+      "field": "General Mathematics"
+    },
+    {
+      "code": "2601",
+      "field": "Mathematics (miscellaneous)"
+    },
+    {
+      "code": "2602",
+      "field": "Algebra and Number Theory"
+    },
+    {
+      "code": "2603",
+      "field": "Analysis"
+    },
+    {
+      "code": "2604",
+      "field": "Applied Mathematics"
+    },
+    {
+      "code": "2605",
+      "field": "Computational Mathematics"
+    },
+    {
+      "code": "2606",
+      "field": "Control and Optimization"
+    },
+    {
+      "code": "2607",
+      "field": "Discrete Mathematics and Combinatorics"
+    },
+    {
+      "code": "2608",
+      "field": "Geometry and Topology"
+    },
+    {
+      "code": "2609",
+      "field": "Logic"
+    },
+    {
+      "code": "2610",
+      "field": "Mathematical Physics"
+    },
+    {
+      "code": "2611",
+      "field": "Modeling and Simulation"
+    },
+    {
+      "code": "2612",
+      "field": "Numerical Analysis"
+    },
+    {
+      "code": "2613",
+      "field": "Statistics and Probability"
+    },
+    {
+      "code": "2614",
+      "field": "Theoretical Computer Science"
+    },
+    {
+      "code": "3100",
+      "field": "General Physics and Astronomy"
+    },
+    {
+      "code": "3101",
+      "field": "Physics and Astronomy (miscellaneous)"
+    },
+    {
+      "code": "3102",
+      "field": "Acoustics and Ultrasonics"
+    },
+    {
+      "code": "3103",
+      "field": "Astronomy and Astrophysics"
+    },
+    {
+      "code": "3104",
+      "field": "Condensed Matter Physics"
+    },
+    {
+      "code": "3105",
+      "field": "Instrumentation"
+    },
+    {
+      "code": "3106",
+      "field": "Nuclear and High Energy Physics"
+    },
+    {
+      "code": "3107",
+      "field": "Atomic and Molecular Physics, and Optics"
+    },
+    {
+      "code": "3108",
+      "field": "Radiation"
+    },
+    {
+      "code": "3109",
+      "field": "Statistical and Nonlinear Physics"
+    },
+    {
+      "code": "3110",
+      "field": "Surfaces and Interfaces"
+    }
+  ],
+  "Health Sciences": [
+    {
+      "code": "2700",
+      "field": "General Medicine"
+    },
+    {
+      "code": "2701",
+      "field": "Medicine (miscellaneous)"
+    },
+    {
+      "code": "2702",
+      "field": "Anatomy"
+    },
+    {
+      "code": "2703",
+      "field": "Anesthesiology and Pain Medicine"
+    },
+    {
+      "code": "2704",
+      "field": "Biochemistry (medical)"
+    },
+    {
+      "code": "2705",
+      "field": "Cardiology and Cardiovascular Medicine"
+    },
+    {
+      "code": "2706",
+      "field": "Critical Care and Intensive Care Medicine"
+    },
+    {
+      "code": "2707",
+      "field": "Complementary and Alternative Medicine"
+    },
+    {
+      "code": "2708",
+      "field": "Dermatology"
+    },
+    {
+      "code": "2709",
+      "field": "Drug Guides"
+    },
+    {
+      "code": "2710",
+      "field": "Embryology"
+    },
+    {
+      "code": "2711",
+      "field": "Emergency Medicine"
+    },
+    {
+      "code": "2712",
+      "field": "Endocrinology, Diabetes and Metabolism"
+    },
+    {
+      "code": "2713",
+      "field": "Epidemiology"
+    },
+    {
+      "code": "2714",
+      "field": "Family Practice"
+    },
+    {
+      "code": "2715",
+      "field": "Gastroenterology"
+    },
+    {
+      "code": "2716",
+      "field": "Genetics (clinical)"
+    },
+    {
+      "code": "2717",
+      "field": "Geriatrics and Gerontology"
+    },
+    {
+      "code": "2718",
+      "field": "Health Informatics"
+    },
+    {
+      "code": "2719",
+      "field": "Health Policy"
+    },
+    {
+      "code": "2720",
+      "field": "Hematology"
+    },
+    {
+      "code": "2721",
+      "field": "Hepatology"
+    },
+    {
+      "code": "2722",
+      "field": "Histology"
+    },
+    {
+      "code": "2723",
+      "field": "Immunology and Allergy"
+    },
+    {
+      "code": "2724",
+      "field": "Internal Medicine"
+    },
+    {
+      "code": "2725",
+      "field": "Infectious Diseases"
+    },
+    {
+      "code": "2726",
+      "field": "Microbiology (medical)"
+    },
+    {
+      "code": "2727",
+      "field": "Nephrology"
+    },
+    {
+      "code": "2728",
+      "field": "Neurology (clinical)"
+    },
+    {
+      "code": "2729",
+      "field": "Obstetrics and Gynecology"
+    },
+    {
+      "code": "2730",
+      "field": "Oncology"
+    },
+    {
+      "code": "2731",
+      "field": "Ophthalmology"
+    },
+    {
+      "code": "2732",
+      "field": "Orthopedics and Sports Medicine"
+    },
+    {
+      "code": "2733",
+      "field": "Otorhinolaryngology"
+    },
+    {
+      "code": "2734",
+      "field": "Pathology and Forensic Medicine"
+    },
+    {
+      "code": "2735",
+      "field": "Pediatrics, Perinatology and Child Health"
+    },
+    {
+      "code": "2736",
+      "field": "Pharmacology (medical)"
+    },
+    {
+      "code": "2737",
+      "field": "Physiology (medical)"
+    },
+    {
+      "code": "2738",
+      "field": "Psychiatry and Mental Health"
+    },
+    {
+      "code": "2739",
+      "field": "Public Health, Environmental and Occupational Health"
+    },
+    {
+      "code": "2740",
+      "field": "Pulmonary and Respiratory Medicine"
+    },
+    {
+      "code": "2741",
+      "field": "Radiology, Nuclear Medicine and Imaging"
+    },
+    {
+      "code": "2742",
+      "field": "Rehabilitation"
+    },
+    {
+      "code": "2743",
+      "field": "Reproductive Medicine"
+    },
+    {
+      "code": "2744",
+      "field": "Reviews and References (medical)"
+    },
+    {
+      "code": "2745",
+      "field": "Rheumatology"
+    },
+    {
+      "code": "2746",
+      "field": "Surgery"
+    },
+    {
+      "code": "2747",
+      "field": "Transplantation"
+    },
+    {
+      "code": "2748",
+      "field": "Urology"
+    },
+    {
+      "code": "2900",
+      "field": "General Nursing"
+    },
+    {
+      "code": "2901",
+      "field": "Nursing (miscellaneous)"
+    },
+    {
+      "code": "2902",
+      "field": "Advanced and Specialized Nursing"
+    },
+    {
+      "code": "2903",
+      "field": "Assessment and Diagnosis"
+    },
+    {
+      "code": "2904",
+      "field": "Care Planning"
+    },
+    {
+      "code": "2905",
+      "field": "Community and Home Care"
+    },
+    {
+      "code": "2906",
+      "field": "Critical Care Nursing"
+    },
+    {
+      "code": "2907",
+      "field": "Emergency Nursing"
+    },
+    {
+      "code": "2908",
+      "field": "Fundamentals and Skills"
+    },
+    {
+      "code": "2909",
+      "field": "Gerontology"
+    },
+    {
+      "code": "2910",
+      "field": "Issues, Ethics and Legal Aspects"
+    },
+    {
+      "code": "2911",
+      "field": "Leadership and Management"
+    },
+    {
+      "code": "2912",
+      "field": "LPN and LVN"
+    },
+    {
+      "code": "2913",
+      "field": "Maternity and Midwifery"
+    },
+    {
+      "code": "2914",
+      "field": "Medical and Surgical Nursing"
+    },
+    {
+      "code": "2915",
+      "field": "Nurse Assisting"
+    },
+    {
+      "code": "2916",
+      "field": "Nutrition and Dietetics"
+    },
+    {
+      "code": "2917",
+      "field": "Oncology (nursing)"
+    },
+    {
+      "code": "2918",
+      "field": "Pathophysiology"
+    },
+    {
+      "code": "2919",
+      "field": "Pediatrics"
+    },
+    {
+      "code": "2920",
+      "field": "Pharmacology (nursing)"
+    },
+    {
+      "code": "2921",
+      "field": "Psychiatric Mental Health"
+    },
+    {
+      "code": "2922",
+      "field": "Research and Theory"
+    },
+    {
+      "code": "2923",
+      "field": "Review and Exam Preparation"
+    },
+    {
+      "code": "3400",
+      "field": "General Veterinary"
+    },
+    {
+      "code": "3401",
+      "field": "Veterinary (miscellaneous)"
+    },
+    {
+      "code": "3402",
+      "field": "Equine"
+    },
+    {
+      "code": "3403",
+      "field": "Food Animals"
+    },
+    {
+      "code": "3404",
+      "field": "Small Animals"
+    },
+    {
+      "code": "3500",
+      "field": "General Dentistry"
+    },
+    {
+      "code": "3501",
+      "field": "Dentistry (miscellaneous)"
+    },
+    {
+      "code": "3502",
+      "field": "Dental Assisting"
+    },
+    {
+      "code": "3503",
+      "field": "Dental Hygiene"
+    },
+    {
+      "code": "3504",
+      "field": "Oral Surgery"
+    },
+    {
+      "code": "3505",
+      "field": "Orthodontics"
+    },
+    {
+      "code": "3506",
+      "field": "Periodontics"
+    },
+    {
+      "code": "3600",
+      "field": "General Health Professions"
+    },
+    {
+      "code": "3601",
+      "field": "Health Professions (miscellaneous)"
+    },
+    {
+      "code": "3602",
+      "field": "Chiropractics"
+    },
+    {
+      "code": "3603",
+      "field": "Complementary and Manual Therapy"
+    },
+    {
+      "code": "3604",
+      "field": "Emergency Medical Services"
+    },
+    {
+      "code": "3605",
+      "field": "Health Information Management"
+    },
+    {
+      "code": "3606",
+      "field": "Medical Assisting and Transcription"
+    },
+    {
+      "code": "3607",
+      "field": "Medical Laboratory Technology"
+    },
+    {
+      "code": "3608",
+      "field": "Medical Terminology"
+    },
+    {
+      "code": "3609",
+      "field": "Occupational Therapy"
+    },
+    {
+      "code": "3610",
+      "field": "Optometry"
+    },
+    {
+      "code": "3611",
+      "field": "Pharmacy"
+    },
+    {
+      "code": "3612",
+      "field": "Physical Therapy, Sports Therapy and Rehabilitation"
+    },
+    {
+      "code": "3613",
+      "field": "Podiatry"
+    },
+    {
+      "code": "3614",
+      "field": "Radiological and Ultrasound Technology"
+    },
+    {
+      "code": "3615",
+      "field": "Respiratory Care"
+    },
+    {
+      "code": "3616",
+      "field": "Speech and Hearing"
+    }
+  ]
+}
