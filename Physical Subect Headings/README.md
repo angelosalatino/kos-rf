@@ -1,6 +1,6 @@
-# Physical Subject Headings (PhySH)
+# Physics Subject Headings (PhySH)
 
-The Physical Subject Headings (PhySH)](https://physh.aps.org) is an ontology that focus on the field of *Physics*. It is maintained by the [American Physical Society (APS)](https://www.aps.org) and it is used for indexing papers on [Physical Review](https://journals.aps.org) and [ArXiv](https://arxiv.org). The latest version of this ontology dates back to January 2019, according to the official [Github repository](https://github.com/physh-org/PhySH).
+The Physics Subject Headings (PhySH)(https://physh.aps.org) is an ontology that focus on the field of *Physics*. It is maintained by the [American Physical Society (APS)](https://www.aps.org) and it is used for indexing papers on [Physical Review](https://journals.aps.org) and [ArXiv](https://arxiv.org). The latest version of this ontology dates back to January 2019, according to the official [Github repository](https://github.com/physh-org/PhySH).
 This classification scheme is crowdsourced with the support of authors, reviewers, editors and organisers of scientific conferences, so that it is constantly updated with new terms.
 
 The current version contains a total of 3,749 concepts in a polyhierarchical structure of six levels. 
